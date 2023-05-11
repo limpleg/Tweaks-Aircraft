@@ -1,0 +1,83 @@
+{
+    "id": [
+	"MD11",
+	"MD11F"
+	],
+    "copyFrom": "MD11",
+    "numEngines": 3,
+    "wingSpan_M": 51.97,
+    "length_M": 61.6,
+    "size": 1,
+    "threeStepSize": 2,
+    "displayName": [
+	"MD-11",
+	"MD-11F"
+	],
+    "iCAOCode": ["MD11"],
+    "manufacturer": ["McDonnell Douglas"],
+    "numBuilt": [
+	131,
+	53
+	],
+    "yearIntroduced": [1988],
+    "yearLastProduced": [
+	1998,
+	2001
+	],
+    "yearRetired": [
+	2014,
+	2030
+	],
+    "capacity_PAX": [
+	332,
+	0
+	],
+    "exitLimit_PAX": [
+	410,
+	0
+	],
+    "seatsAbreast": [
+	9,
+	0
+	],
+    "capacityULDLowerDeck": [
+	7,
+	14
+	],
+    "capacityULDUpperDeck": [
+	0,
+	14
+	],
+    "capacityBulkCargo_KG": [3175],
+    "range_KM": [
+	12455,
+	6652
+	],
+    "speed_KMH": [910],
+    "etops_Minutes": [360],
+    "fuelCapacity_L": [146173],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [
+	3185,
+	2964
+	],
+    "maxTOW_KG": [273294],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [true],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [false],
+    "cargo": [
+	false,
+	true
+	],
+    "loud": [true],
+    "quiet": [false]
+}

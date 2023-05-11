@@ -90,7 +90,7 @@
         },			
 		{
             "name":"LeftWingNEO",
-            "layerOrder":1,
+            "layerOrder":2,
             "slicePosition":{
                 "x":14,
                 "y":3677
@@ -112,7 +112,7 @@
         },
 		{
             "name":"RightWingNEO",
-            "layerOrder":1,
+            "layerOrder":2,
             "slicePosition":{
                 "x":14,
                 "y":3677
