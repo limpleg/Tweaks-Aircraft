@@ -44,10 +44,6 @@ Aircraft Pack For Use With ACEO Tweaks
     * -300M
     * -300SR
     * -SP
-    * -400
-    * -400M
-    * -400D
-    * -400F
     * -8i
     * -8f
 * Challenger 600 Series
@@ -85,10 +81,16 @@ Aircraft Pack For Use With ACEO Tweaks
 * B737-800
     * -800
     * -800BCF
+* B747-400
+    * -400M
+    * -400D
+    * -400F
 * B757-200
     * -200
     * -200M
     * -200F
+* B777-200LR
+    * B777F
 * Baron 58
 * Cessna 182
 * Cessna 208
@@ -114,6 +116,8 @@ Aircraft Pack For Use With ACEO Tweaks
      * MD83
      * MD88
      * MD80 Freighter Conversion, again interpreted as MD83
+* MD11
+      MD11F
 * PA28
 * Piper Cub
 * PC12
