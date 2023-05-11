@@ -7,7 +7,7 @@
 	"numEngines": 2,
 	"wingSpan_M": 25.889999389648439,
 	"length_M": 22.25,
-	"size": 6,
+	"size": 5,
 	"threeStepSize": 1,
 	"displayName": [
 		"Q100",
@@ -95,10 +95,10 @@
 		true
 	],
 	"jetbridgePoints": [
-		0
+		1
 	],
 	"conveyerPoints": [
-		1
+		0
 	],
 	"cleaningPoints": [
 		0

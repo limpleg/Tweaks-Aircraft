@@ -3,35 +3,8 @@
    "liveryFileName":"E295_MOD.png",
    "pixelSize":150,
    "liveryComponent":[
-	  {
-         "name":"FuselageTWEAKS",
-         "layerOrder":3,
-         "slicePosition":{
-            "x":1,
-            "y":9
-         },
-         "sliceSize":{
-            "x":4402,
-            "y":323
-         },
-         "position":{
-            "x":-1.52,
-            "y":0,
-            "z":-9999
-         },
-         "scale":{
-            "x":1.038674,
-            "y":1.038674,
-            "z":1
-         },
-         "flip":{
-            "x":0,
-            "y":0
-         },
-         "rotation":0
-      },	
 	{  
-            "name":"config_exactly_FuselageOrginal_WingletE2Rigth_WingletE2Left_EngineE2Rigth_EngineE2Left_RightWing_LeftWing_RightFlap_LeftFlap_LeftTail_RightTail_NightWindows (1)_NightWindows (2)_exactly_disable",
+            "name":"config_exactly_RightWing_LeftWing_RightFlap_LeftFlap_LeftTail_RightTail_NightWindows (1)_NightWindows (2)_exactly_disable",
       "layerOrder" : 0,
       "slicePosition" : {
         "x" : 1,
@@ -50,7 +23,7 @@
     },
 	  {
          "name":"FuselageTWEAKS",
-         "layerOrder":2,
+         "layerOrder":3,
          "slicePosition":{
             "x":1,
             "y":9

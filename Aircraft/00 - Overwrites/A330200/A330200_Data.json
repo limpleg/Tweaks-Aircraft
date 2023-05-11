@@ -1,0 +1,89 @@
+{
+    "id": [
+	"A330200",
+	"A330200F"
+	],
+    "copyFrom": "A330200",
+    "numEngines": 2,
+    "wingSpan_M": 60.3,
+    "length_M": 58.82,
+    "size": 1,
+    "threeStepSize": 2,
+    "displayName": [
+	"A330-200",
+	"A330-200F"
+	],
+    "iCAOCode": ["A332"],
+    "manufacturer": ["Airbus"],
+    "numBuilt": [
+	664,
+	38
+	],
+    "yearIntroduced": [
+	1992,
+	2010
+	],
+    "yearLastProduced": [
+	2021,
+	2025
+	],
+    "yearRetired": [2035],
+    "capacity_PAX": [
+	246,
+	0
+	],
+    "exitLimit_PAX": [
+	406,
+	0
+	],
+    "seatsAbreast": [
+	8,
+	0
+	],
+    "capacityULDLowerDeck": [
+	3,
+	26
+	],
+    "capacityULDUpperDeck": [
+	0,
+	16
+	],
+    "capacityBulkCargo_KG": [23000],
+    "range_KM": [
+	13450,
+	7400
+	],
+    "speed_KMH": [871],
+    "etops_Minutes": [180],
+    "fuelCapacity_L": [
+	139090,
+	97530
+	],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [
+	2819.4,
+	2770
+	],
+    "maxTOW_KG": [
+	242000,
+	233000
+	],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [true],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [false],
+    "cargo": [
+	false,
+	true
+	],
+    "loud": [false],
+    "quiet": [false]
+}
