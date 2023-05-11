@@ -1,0 +1,153 @@
+{
+    "id": 
+	[
+	"B747100",
+	"B747200B",
+	"B747200C",
+	"B747200M",
+	"B747200F"
+	],
+    "copyFrom": "B747400",
+    "numEngines": 4,
+    "wingSpan_M": 59.6,
+    "length_M": 70.7,
+    "size": 0,
+    "threeStepSize": 2,
+    "displayName": [
+	"B747-100",
+	"B747-200B",
+	"B747-200C",
+	"B747-200M",
+	"B747-200F"
+	],
+    "iCAOCode": [
+	"B741",
+	"B742",
+	"B742",
+	"B742",
+	"B742"
+	],
+    "manufacturer": ["Boeing"],
+    "numBuilt": [
+	206,
+	225,
+	13,
+	78,
+	73
+	],
+    "yearIntroduced": [
+	1969,
+	1970,
+	1973,
+	1975,
+	1972
+	],
+    "yearLastProduced": [
+	1982,
+	1990,
+	1988,
+	1988,
+	1991
+	],
+    "yearRetired": [
+	2019,
+	2019,
+	2019,
+	2019,
+	2025
+	],
+    "capacity_PAX": [
+	366,
+	452,
+	400,
+	320,
+	0
+	],
+    "exitLimit_PAX": [
+	440,
+	480,
+	480,
+	480,
+	0
+	],
+    "seatsAbreast": [10],
+    "capacityULDLowerDeck": [
+	30,
+	30,
+	30,
+	30,
+	30
+	],
+    "capacityULDUpperDeck": [
+	0,
+	0,
+	6,
+	6,
+	30
+	],
+    "capacityBulkCargo_KG": [
+	12000,
+	12000,
+	15000,
+	16000,
+	115000
+	],
+    "range_KM": [
+	9800,
+	12700,
+	12700,
+	12700,
+	12700
+	],
+    "speed_KMH": [895],
+    "etops_Minutes": [360],
+    "fuelCapacity_L": [
+	183380,
+	198390,
+	198390,
+	198390,
+	198390
+	],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [
+	3250,
+	3300,
+	3300,
+	3300,
+	3300
+	],
+    "maxTOW_KG": [
+	333400,
+	351500,
+	362500,
+	365200,
+	377800
+	],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [true],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [
+	false,
+	false,
+	true,
+	true,
+	false
+	],
+    "cargo": [
+	false,
+	false,
+	false,
+	false,
+	true
+	],
+    "loud": [true],
+    "quiet": [false]
+}

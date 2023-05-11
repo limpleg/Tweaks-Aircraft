@@ -1,0 +1,351 @@
+{
+  "aircraftType" : "B744",
+  "liveryFileName" : "B747400.png",
+  "pixelSize" : 145,
+  "liveryComponent" : [
+    {
+      "name" : "Fuselage1",
+      "layerOrder" : 4,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 700
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "Fuselage2",
+      "layerOrder" : 5,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 16
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+        {  
+            "name":"Engine1 left",
+            "layerOrder":0,
+            "slicePosition":{  
+                "x":62,
+                "y":1394
+            },
+            "sliceSize":{  
+                "x":561,
+                "y":239
+            },
+            "position":{  
+                "x":4.54,
+                "y":8.322,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+        {  
+            "name":"Engine2 rigth",
+            "layerOrder":0,
+            "slicePosition":{  
+                "x":1207,
+                "y":1394
+            },
+            "sliceSize":{  
+                "x":561,
+                "y":239
+            },
+            "position":{  
+                "x":4.54,
+                "y":-8.322,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+        {  
+            "name":"Engine3 left",
+            "layerOrder":0,
+            "slicePosition":{  
+                "x":62,
+                "y":1394
+            },
+            "sliceSize":{  
+                "x":561,
+                "y":239
+            },
+            "position":{  
+                "x":-1.88,
+                "y":15.159,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+        {  
+            "name":"Engine4 rigth",
+            "layerOrder":0,
+            "slicePosition":{  
+                "x":1207,
+                "y":1394
+            },
+            "sliceSize":{  
+                "x":561,
+                "y":239
+            },
+            "position":{  
+                "x":-1.88,
+                "y":-15.159,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+    {
+      "name" : "Wingboxleft",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 91,
+        "y" : 1716
+      },
+      "sliceSize" : {
+        "x" : 1786,
+        "y" : 76
+      },
+      "position" : {
+        "x" : 4.928,
+        "y" : 2.24,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "Wingboxrigth",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 2059,
+        "y" : 1716
+      },
+      "sliceSize" : {
+        "x" : 1786,
+        "y" : 76
+      },
+      "position" : {
+        "x" : 4.928,
+        "y" : -2.41,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 40,
+				"y" : 7239
+			},
+			"sliceSize" : {
+				"x" : 809,
+				"y" : 872
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_NightWindows (3)_NightWindows (4)_NightWindows (5)_NightWindows (6)_NightWindows (7)_NightWindows (8)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+		{
+      "name": "UpperdeckDLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 2111
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "UpperdeckCargoLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 6098
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+			{
+      "name": "UpperdeckLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 2863
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "Back400MLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 3632
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "FrontLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 5279
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+			{
+      "name": "BackLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 4396
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_BackLights_FrontLights_Back400MLights_UpperdeckLights_UpperdeckDLights_UpperdeckCargoLights_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+				{  
+            "name":"config_exactly_LandingLight_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.689655,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }		
+  ]
+}

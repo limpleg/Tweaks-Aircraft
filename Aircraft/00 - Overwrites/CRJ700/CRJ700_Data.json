@@ -1,0 +1,116 @@
+{
+	"id": [
+		"CRJ700"
+	],
+	"copyFrom": "CRJ700",
+	"numEngines": 2,
+	"wingSpan_M": 23.2,
+	"length_M": 32.3,
+	"size": 5,
+	"threeStepSize": 1,
+	"displayName": [
+		"CRJ 700"
+	],
+	"iCAOCode": [
+		"CRJ7"
+	],
+	"manufacturer": [
+		"Bombardier"
+	],
+	"numBuilt": [
+		500
+	],
+	"yearIntroduced": [
+		1999
+	],
+	"yearLastProduced": [
+		2020
+	],
+	"yearRetired": [
+		2035
+	],
+	"capacity_PAX": [
+		70
+	],
+	"exitLimit_PAX": [
+		78
+	],
+	"seatsAbreast": [
+		4
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2267.93333333333
+	],
+	"range_KM": [
+		2553
+	],
+	"speed_KMH": [
+		876
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		10988
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1554.48
+	],
+	"maxTOW_KG": [
+		34019
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

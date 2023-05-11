@@ -1,0 +1,122 @@
+{
+	"id": [
+		"CRJ900","CRJ705"
+	],
+	"copyFrom": "CRJ700",
+	"numEngines": 2,
+	"wingSpan_M": 26.2,
+	"length_M": 36.2,
+	"size": 4,
+	"threeStepSize": 1,
+	"displayName": [
+		"CRJ 900",
+		"CRJ 705"
+	],
+	"iCAOCode": [
+		"CRJ9"
+	],
+	"manufacturer": [
+		"Bombardier"
+	],
+	"numBuilt": [
+		487,
+		16
+	],
+	"yearIntroduced": [
+		2000,
+		2005
+	],
+	"yearLastProduced": [
+		2020
+	],
+	"yearRetired": [
+		2032,
+		2016
+	],
+	"capacity_PAX": [
+		88,
+		75
+	],
+	"exitLimit_PAX": [
+		104,
+		75
+	],
+	"seatsAbreast": [
+		4
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2756
+	],
+	"range_KM": [
+		2871
+	],
+	"speed_KMH": [
+		829
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		8888
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1770
+	],
+	"maxTOW_KG": [
+		38330
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

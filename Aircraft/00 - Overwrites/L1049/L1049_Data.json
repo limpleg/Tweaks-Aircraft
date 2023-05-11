@@ -1,0 +1,116 @@
+{
+	"id": [
+		"L1049"
+	],
+	"copyFrom": "L1049",
+	"numEngines": 4,
+	"wingSpan_M": 37,
+	"length_M": 34.62,
+	"size": 5,
+	"threeStepSize": 1,
+	"displayName": [
+		"1049 Super Constellation"
+	],
+	"iCAOCode": [
+		"CONI"
+	],
+	"manufacturer": [
+		"Lockheed"
+	],
+	"numBuilt": [
+		600
+	],
+	"yearIntroduced": [
+		1951
+	],
+	"yearLastProduced": [
+		1958
+	],
+	"yearRetired": [
+		1970
+	],
+	"capacity_PAX": [
+		80
+	],
+	"exitLimit_PAX": [
+		106
+	],
+	"seatsAbreast": [
+		4
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2000
+	],
+	"range_KM": [
+		8290
+	],
+	"speed_KMH": [
+		489
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		24760
+	],
+	"engineType": [
+		"radial"
+	],
+	"takeoffDistance_M": [
+		1400
+	],
+	"maxTOW_KG": [
+		54431
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

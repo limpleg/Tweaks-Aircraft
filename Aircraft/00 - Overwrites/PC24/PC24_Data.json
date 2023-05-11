@@ -1,0 +1,116 @@
+{
+	"id": [
+		"PC24"
+	],
+	"copyFrom": "PC24",
+	"numEngines": 2,
+	"wingSpan_M": 17,
+	"length_M": 16.85,
+	"size": 7,
+	"threeStepSize": 0,
+	"displayName": [
+		"PC-24"
+	],
+	"iCAOCode": [
+		"PC24"
+	],
+	"manufacturer": [
+		"Pilatus"
+	],
+	"numBuilt": [
+		120
+	],
+	"yearIntroduced": [
+		2018
+	],
+	"yearLastProduced": [
+		2035
+	],
+	"yearRetired": [
+		2050
+	],
+	"capacity_PAX": [
+		8
+	],
+	"exitLimit_PAX": [
+		8
+	],
+	"seatsAbreast": [
+		2
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		400
+	],
+	"range_KM": [
+		3334
+	],
+	"speed_KMH": [
+		815
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		3363
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		820
+	],
+	"maxTOW_KG": [
+		8300
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		false
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		0
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		0
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		true
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

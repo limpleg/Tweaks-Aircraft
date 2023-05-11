@@ -1,0 +1,116 @@
+{
+	"id": [
+		"MD80","MD81","MD82","MD83","MD88","MD80SF"
+	],
+	"copyFrom": "MD80",
+	"numEngines": 2,
+	"wingSpan_M": 32.82,
+	"length_M": 45.06,
+	"size": 4,
+	"threeStepSize": 1,
+	"displayName": [
+		"MD-80","MD-81","MD-82","MD-83","MD-88","MD-80SF"
+	],
+	"iCAOCode": [
+		"MD83","MD81","MD82","MD83","MD88","MD83"
+	],
+	"manufacturer": [
+		"McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","AEI Freighter Conversions"
+	],
+	"numBuilt": [
+		1116,132,569,265,150,98
+	],
+	"yearIntroduced": [
+		1985,1980,1981,1985,1987,2010
+	],
+	"yearLastProduced": [
+		1999,1994,1997,1999,1997,2030
+	],
+	"yearRetired": [
+		2020,2020,2020,2020,2020,2040
+	],
+	"capacity_PAX": [
+		143,143,143,143,143,0
+	],
+	"exitLimit_PAX": [
+		167
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0,0,0,0,0,6
+	],
+	"capacityBulkCargo_KG": [
+		2500,2500,2500,2500,2500,16000
+	],
+	"range_KM": [
+		3800,2900,2900,3800,3800,3800
+	],
+	"speed_KMH": [
+		876
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		26400,22100,22100,26400,26400,26400
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [
+		2550,2600,2270,2550,2550,2550
+	],
+	"maxTOW_KG": [
+		73000,63500,67800,73000,73000
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,false,false,false,false,true
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

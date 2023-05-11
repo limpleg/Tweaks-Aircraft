@@ -1,0 +1,147 @@
+{
+  "aircraftType" : "A319neo",
+  "liveryFileName" : "A319neo.png",
+  "pixelSize" : 150,
+  "liveryComponent" : [
+  {
+      "name" : "Fuselage",
+      "layerOrder" : 4,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 3
+      },
+      "sliceSize" : {
+        "x" : 3956,
+        "y" : 437
+      },
+      "position" : {
+        "x" : -2.29,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+        {
+            "name": "Wingbox1",
+            "layerOrder": 3,
+            "slicePosition":
+            {
+                "x": 2836,
+                "y": 638
+            },
+            "sliceSize":
+            {
+                "x": 1096,
+                "y": 135
+            },
+            "position":
+            {
+                "x": 0.5,
+                "y": 1.35,
+                "z": 0
+            },
+            "flip":
+            {
+                "x": 0,
+                "y": 0
+            },
+            "rotation": 0
+        },
+        {
+            "name": "Wingbox2",
+            "layerOrder": 3,
+            "slicePosition":
+            {
+                "x": 2836,
+                "y": 499
+            },
+            "sliceSize":
+            {
+                "x": 1096,
+                "y": 135
+            },
+            "position":
+            {
+                "x": 0.5,
+                "y": -1.35,
+                "z": 0
+            },
+            "flip":
+            {
+                "x": 0,
+                "y": 0
+            },
+            "rotation": 0
+        },
+        {
+            "name": "Winglet1",
+            "layerOrder": 3,
+            "slicePosition":
+            {
+                "x": 1064,
+                "y": 467
+            },
+            "sliceSize":
+            {
+                "x": 337,
+                "y": 102
+            },
+            "position":
+            {
+                "x": -4.18,
+                "y": -12.73,
+                "z": 0
+            },
+            "flip":
+            {
+                "x": 0,
+                "y": 0
+            },
+            "rotation": 0
+        },
+        {
+            "name": "Winglet2",
+            "layerOrder": 3,
+            "slicePosition":
+            {
+                "x": 1064,
+                "y": 569
+            },
+            "sliceSize":
+            {
+                "x": 337,
+                "y": 102
+            },
+            "position":
+            {
+                "x": -4.18,
+                "y": 12.71,
+                "z": 0
+            },
+            "flip":
+            {
+                "x": 0,
+                "y": 0
+            },
+            "rotation": 0
+        },
+			{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+                "x":24,
+                "y":2157
+            },
+            "sliceSize":{  
+                "x":695,
+                "y":744
+            },
+            "position":{  
+                "x":-1,
+                "y":1,
+                "z":-9999
+            },
+      "rotation" : 0
+    }	
+    ]
+}

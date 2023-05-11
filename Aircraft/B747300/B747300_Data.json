@@ -1,0 +1,97 @@
+{
+    "id": 
+	[
+	"B747300",
+	"B747300M",
+	"B747300SR"
+	],
+    "copyFrom": "B747400",
+    "numEngines": 4,
+    "wingSpan_M": 59.6,
+    "length_M": 70.7,
+    "size": 0,
+    "threeStepSize": 2,
+    "displayName": [
+	"B747-300",
+	"B747-300M",
+	"B747-300SR"
+	],
+    "iCAOCode": ["B743"],
+    "manufacturer": ["Boeing"],
+    "numBuilt": [
+	56,
+	21,
+	4
+	],
+    "yearIntroduced": [
+	1983,
+	1983,
+	1987
+	],
+    "yearLastProduced": [
+	1988,
+	1990,
+	1988
+	],
+    "yearRetired": [
+	2025,
+	2023,
+	2009
+	],
+    "capacity_PAX": [
+	496,
+	280,
+	624
+	],
+    "exitLimit_PAX": [
+	580,
+	338,
+	660
+	],
+    "seatsAbreast": [10],
+    "capacityULDLowerDeck": [
+	30,
+	30,
+	30
+	],
+    "capacityULDUpperDeck": [
+	0,
+	6,
+	0
+	],
+    "capacityBulkCargo_KG": [12880],
+    "range_KM": [
+	13716,
+	13716,
+	3800
+	],
+    "speed_KMH": [910],
+    "etops_Minutes": [360],
+    "fuelCapacity_L": [198390],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [3185],
+    "maxTOW_KG": [
+	340100,
+	340100,
+	272100
+	],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [true],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [
+	false,
+	true,
+	false
+	],
+    "cargo": [false],
+    "loud": [true],
+    "quiet": [false]
+}

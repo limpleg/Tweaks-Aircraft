@@ -1,0 +1,116 @@
+{
+	"id": [
+		"COMET4"
+	],
+	"copyFrom": "COMET4",
+	"numEngines": 4,
+	"wingSpan_M": 35,
+	"length_M": 33.99,
+	"size": 5,
+	"threeStepSize": 1,
+	"displayName": [
+		"Comet 4"
+	],
+	"iCAOCode": [
+		"CMT4"
+	],
+	"manufacturer": [
+		"de Havilland"
+	],
+	"numBuilt": [
+		114
+	],
+	"yearIntroduced": [
+		1949
+	],
+	"yearLastProduced": [
+		1964
+	],
+	"yearRetired": [
+		1976
+	],
+	"capacity_PAX": [
+		81
+	],
+	"exitLimit_PAX": [
+		119
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2000
+	],
+	"range_KM": [
+		5190
+	],
+	"speed_KMH": [
+		840
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		40450
+	],
+	"engineType": [
+		"turbojet"
+	],
+	"takeoffDistance_M": [
+		2057
+	],
+	"maxTOW_KG": [
+		71000
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"id": [
+		"B757300"
+	],
+	"copyFrom": "B757200",
+	"numEngines": 2,
+	"wingSpan_M": 38,
+	"length_M": 54.5,
+	"size": 2,
+	"threeStepSize": 1,
+	"displayName": [
+		"757-300"
+	],
+	"iCAOCode": [
+		"B753"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		55
+	],
+	"yearIntroduced": [
+		1999
+	],
+	"yearLastProduced": [
+		2005
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		243
+	],
+	"exitLimit_PAX": [
+		295
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		3000
+	],
+	"range_KM": [
+		6295
+	],
+	"speed_KMH": [
+		854
+	],
+	"etops_Minutes": [
+		180
+	],
+	"fuelCapacity_L": [
+		43400
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		2605
+	],
+	"maxTOW_KG": [
+		123830
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

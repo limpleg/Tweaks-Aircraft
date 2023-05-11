@@ -1,0 +1,123 @@
+{
+	"id": [
+		"B38M",
+		"B38M200"
+	],
+	"copyFrom": "B737800",
+	"numEngines": 2,
+	"wingSpan_M": 35.92,
+	"length_M": 39.47,
+	"size": 2,
+	"threeStepSize": 1,
+	"displayName": [
+		"B737 MAX 8",
+		"B737 MAX 200"
+	],
+	"iCAOCode": [
+		"B38M"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		589,
+		43
+	],
+	"yearIntroduced": [
+		2017,
+		2019
+	],
+	"yearLastProduced": [
+		2050
+	],
+	"yearRetired": [
+		2050
+	],
+	"capacity_PAX": [
+		162,
+		200
+	],
+	"exitLimit_PAX": [
+		200,
+		211
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		3300
+	],
+	"range_KM": [
+		6570
+	],
+	"speed_KMH": [
+		838
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		25940
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1878
+	],
+	"maxTOW_KG": [
+		82600
+	],
+	"needStairs": [
+		true,
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		true
+	]
+}

@@ -1,0 +1,395 @@
+{
+  "aircraftType" : "E290",
+  "liveryFileName" : "E290_MOD.png",
+  "pixelSize" : 150,
+  "liveryComponent" : [
+	{
+      "name" : "Fuselage",
+      "layerOrder" : 2,
+      "slicePosition" : {
+        "x" : 4,
+        "y" : 2
+      },
+      "sliceSize" : {
+        "x" : 4011,
+        "y" : 336
+      },
+      "position" : {
+        "x" : -1.369,
+        "y" : 0,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 0
+    },
+ 	{  
+            "name":"config_exactly_WingletE2Rigth_WingletE2Left_EngineE2Rigth_EngineE2Left_RightWing_LeftWing_RightFlap_LeftFlap_NightWindows (1)_NightWindows (2)_LeftTail_RightTail_exactly_disable",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 4,
+				"y" : 3069
+			},
+			"sliceSize" : {
+				"x" : 982,
+				"y" : 912
+            },
+            "position":{  
+                "x":-1.5,
+                "y":0.3,
+                "z":-9999
+            },
+      "rotation" : 0
+    },	
+		{
+      "name": "mywindows1_config_self_makewindow",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 4,
+        "y" : 2680
+      },
+      "sliceSize" : {
+        "x" : 4011,
+        "y" : 336
+      },
+      "position" : {
+        "x" : -1.3533,
+        "y" : 0,
+        "z" : -9999
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+      "name" : "WingTWEAK",
+      "layerOrder" : 1,
+      "slicePosition" : {
+        "x" : 31,
+        "y" : 1064
+      },
+      "sliceSize" : {
+        "x" : 3726,
+        "y" : 1224
+      },
+      "position" : {
+        "x" : -0.58,
+        "y" : 0,
+        "z" : -9999
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 270
+    },
+		{
+      "name" : "StabTWEAK",
+      "layerOrder" : 1,
+      "slicePosition" : {
+        "x" : 1679,
+        "y" : 3277
+      },
+      "sliceSize" : {
+        "x" : 1105,
+        "y" : 504
+      },
+      "position" : {
+        "x" : -12.6127,
+        "y" : 0,
+        "z" : -9999
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 270
+    },	
+				{  
+            "name":"config_exactly_Flaps_Wing.1.1_Wing1.2_Wing2.1_Wing2.2_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.5,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":1.5,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+				{  
+            "name":"config_exactly_Cone_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":2.53333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_Cone (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":-2.53333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.4,
+                "y":1.6,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.4,
+                "y":-1.6,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.9333,
+                "y":2.413333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.9333,
+                "y":-2.413333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":2.62,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":-2.62,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+      {
+         "name":"EngineE2LeftTWEAKS",
+         "layerOrder":0,
+         "slicePosition":{
+            "x":637,
+            "y":669
+         },
+         "sliceSize":{
+            "x":451,
+            "y":273
+         },
+         "position":{
+            "x":2.656,
+            "y":3.633,
+            "z":-9999
+         },
+         "flip":{
+            "x":0,
+            "y":0
+         },
+         "rotation":0
+      },
+      {
+         "name":"EngineE2RigthTWEAKS",
+         "layerOrder":0,
+         "slicePosition":{
+            "x":4,
+            "y":669
+         },
+         "sliceSize":{
+            "x":451,
+            "y":273
+         },
+         "position":{
+            "x":2.656,
+            "y":-3.633,
+            "z":-9999
+         },
+         "flip":{
+            "x":0,
+            "y":0
+         },
+         "rotation":0
+      }	  
+   ]
+}

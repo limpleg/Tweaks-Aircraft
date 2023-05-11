@@ -1,0 +1,86 @@
+{
+    "id": [
+	"A321neo",
+	"A321LR",
+	"A321XLR"
+	],
+    "copyFrom": "A321",
+    "numEngines": 2,
+    "wingSpan_M": 35.8,
+    "length_M": 44.5,
+    "size": 3,
+    "threeStepSize": 1,
+    "displayName": [
+	"A321neo",
+	"A321LR",
+	"A321XLR"
+	],
+    "iCAOCode": ["A20N"],
+    "manufacturer": ["Airbus"],
+    "numBuilt": [
+	850,
+	80,
+	1
+	],
+    "yearIntroduced": [
+	2016,
+	2018,
+	2022
+	],
+    "yearLastProduced": [2050],
+    "yearRetired": [2050],
+    "capacity_PAX": [
+	185,
+	206,
+	206
+	],
+    "exitLimit_PAX": [
+	206,
+	244,
+	244
+	],
+    "seatsAbreast": [6],
+    "capacityULDLowerDeck": [0],
+    "capacityULDUpperDeck": [0],
+    "capacityBulkCargo_KG": [
+	3402
+	],
+    "range_KM": [
+	6850,
+	7400,
+	8700
+	],
+    "speed_KMH": [876],
+    "etops_Minutes": [
+	120,
+	180,
+	180
+	],
+    "fuelCapacity_L": [
+	29580,
+	32940,
+	39549
+	],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [2210],
+    "maxTOW_KG": [
+	93500,
+	97000,
+	101000
+	],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [false],
+    "canGetPushback": [true],
+    "jetbridgePoints": [1],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [false],
+    "cargo": [false],
+    "loud": [false],
+    "quiet": [true]
+}

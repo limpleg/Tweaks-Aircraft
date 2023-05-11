@@ -1,0 +1,96 @@
+{
+    "id": [
+	"B757200",
+	"B757200M",
+	"B757200F"
+	],
+    "copyFrom": "B757200",
+    "numEngines": 2,
+    "wingSpan_M": 38,
+    "length_M": 47.3,
+    "size": 2,
+    "threeStepSize": 1,
+    "displayName": [
+	"Boeing 757-200",
+	"Boeing 757-200M",
+	"Boeing 757-200F"
+	],
+    "iCAOCode": ["B752"],
+    "manufacturer": ["Boeing"],
+    "numBuilt": [
+	913,
+	1,
+	80	
+	],
+    "yearIntroduced": [
+	1983,
+	1988,
+	1987
+	],
+    "yearLastProduced": [2004],
+    "yearRetired": [2030],
+    "capacity_PAX": [
+	228,
+	123,
+	0
+	],
+    "exitLimit_PAX": [
+	239,
+	148,
+	0
+	],
+    "seatsAbreast": [6],
+    "capacityULDLowerDeck": [0],
+    "capacityULDUpperDeck": [
+	0,
+	2,
+	15
+	],
+    "capacityBulkCargo_KG": [
+	2800,
+	2800,
+	32755	
+	],
+    "range_KM": [
+	7250,
+	7250,
+	5435
+	],
+    "speed_KMH": [918],
+    "etops_Minutes": [180],
+    "fuelCapacity_L": [
+	43490,
+	43490,
+	42680
+	],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [
+	2070,
+	2070,
+	2103	
+	],
+    "maxTOW_KG": [115660],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [false],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [
+	false,
+	true,
+	false
+	],
+    "cargo": [
+	false,
+	false,
+	true
+	],
+    "loud": [false],
+    "quiet": [false]
+}
