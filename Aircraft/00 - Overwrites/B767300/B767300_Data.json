@@ -1,0 +1,83 @@
+{
+    "id": [
+	"B767300",
+	"B767300F"
+	],
+    "copyFrom": "B767300",
+    "numEngines": 2,
+    "wingSpan_M": 47.57,
+    "length_M": 54.94,
+    "size": 2,
+    "threeStepSize": 2,
+    "displayName": [
+	"B767-300",
+	"B767-300F"
+	],
+    "iCAOCode": ["B763"],
+    "manufacturer": ["Boeing"],
+    "numBuilt": [
+	687,
+	226
+	],
+    "yearIntroduced": [
+	1986,
+	1995
+	],
+    "yearLastProduced": [
+	2005,
+	2030
+	],
+    "yearRetired": [
+	2025,
+	2035
+	],
+    "capacity_PAX": [
+	261,
+	0
+	],
+    "exitLimit_PAX": [
+	351,
+	0
+	],
+    "seatsAbreast": [
+	7,
+	0
+	],
+    "capacityULDLowerDeck": [30],
+    "capacityULDUpperDeck": [
+	0,
+	24
+	],
+    "capacityBulkCargo_KG": [24000],
+    "range_KM": [
+	11297,
+	5926
+	],
+    "speed_KMH": [900],
+    "etops_Minutes": [180],
+    "fuelCapacity_L": [91016],
+    "engineType": ["turbofan"],
+    "takeoffDistance_M": [
+	2407,
+	2650
+	],
+    "maxTOW_KG": [186900],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [false],
+    "canGetPushback": [true],
+    "jetbridgePoints": [1],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [false],
+    "cargo": [
+	false,
+	true
+	],
+    "loud": [false],
+    "quiet": [false]
+}

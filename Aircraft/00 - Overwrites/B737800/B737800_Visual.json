@@ -1,0 +1,175 @@
+{  
+    "aircraftType":"B737800",
+    "liveryFileName":"B737800.png",
+    "pixelSize":205,
+    "liveryComponent":[  
+        {  
+            "name":"Fuselage",
+            "layerOrder":5,
+            "slicePosition":{  
+                "x":0,
+                "y":13
+            },
+            "sliceSize":{  
+                "x":5987,
+                "y":593
+            },
+            "position":{  
+                "x":-2.43,
+                "y":0,
+                "z":0
+            },
+            "rotation":0
+        },
+{
+            "name": "config_exactly_RightWing_LeftWing_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }, 
+			        {  
+         "name":"Wing LeftTweak",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":657,
+            "y":1099
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.85853487804,
+            "y":7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+	  	        {  
+         "name":"Wing RigthTweak",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":3296,
+            "y":1099
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.85853487804,
+            "y":-7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+				{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.00487487804878048780,
+                "y":0.048780,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.00487487804878048780,
+                "y":-0.048780,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.048775121951219512195,
+                "y":-0.14634,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.048775121951219512195,
+                "y":0.14634,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }		
+    ]
+}
