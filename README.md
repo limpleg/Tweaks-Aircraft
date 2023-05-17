@@ -9,6 +9,12 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200 Advanced
     * -200 F
 * B727-100
+* Embraer ERJ Family
+    * ERJ 135
+    * Legacy 600
+    * ERJ 140
+    * ERJ 145
+    * ERJ 145XR
 
 ### New Variants
 
@@ -46,6 +52,8 @@ Aircraft Pack For Use With ACEO Tweaks
     * -SP
     * -8i
     * -8f
+* B767 Family
+    * -400	
 * Challenger 600 Series
     * 601
     * 604
@@ -55,12 +63,6 @@ Aircraft Pack For Use With ACEO Tweaks
     * CRJ 900
     * CRJ 705 (its a 900 variant)
     * CRJ 1000
-* Embraer ERJ Family
-    * ERJ 135
-    * Legacy 600
-    * ERJ 140
-    * ERJ 145
-    * ERJ 145XR
 * Embraer E2 Family
     * E190-E2 
     * E195-E2
@@ -89,6 +91,9 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200M
     * -200F
+* B767 Family
+    * -200SF
+    * -300F	
 * B777-200LR
     * B777F
 * Baron 58
@@ -117,7 +122,7 @@ Aircraft Pack For Use With ACEO Tweaks
      * MD88
      * MD80 Freighter Conversion, again interpreted as MD83
 * MD11
-      MD11F
+     * MD11F
 * PA28
 * Piper Cub
 * PC12
