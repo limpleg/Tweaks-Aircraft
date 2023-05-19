@@ -1,6 +1,6 @@
 {
 	"id": [
-		"B767200","B767200ER"
+		"B767200","B767200ER","B767200SF"
 	],
 	"copyFrom": "B767200",
 	"numEngines": 2,
@@ -10,7 +10,7 @@
 	"size": 2,
 	"threeStepSize": 2,
 	"displayName": [
-		"B767-200","B767-200ER"
+		"B767-200","B767-200ER","B767-200SF"
 	],
 	"iCAOCode": [
 		"B762"
@@ -19,37 +19,37 @@
 		"Boeing"
 	],
 	"numBuilt": [
-		128,121
+		128,121,72
 	],
 	"yearIntroduced": [
-		1981,1984
+		1981,1984,1998
 	],
 	"yearLastProduced": [
-		2000
+		2000,2000,2020
 	],
 	"yearRetired": [
-		2020
+		2020,2025,2035
 	],
 	"capacity_PAX": [
-		214
+		214,214,0
 	],
 	"exitLimit_PAX": [
-		290
+		290,290,0
 	],
 	"seatsAbreast": [
-		7
+		7,7,0
 	],
 	"capacityULDLowerDeck": [
 		3
 	],
 	"capacityULDUpperDeck": [
-		0
+		0,0,4
 	],
 	"capacityBulkCargo_KG": [
 		20000
 	],
 	"range_KM": [
-		7200,12200
+		7200,12200,7200
 	],
 	"speed_KMH": [
 		900
@@ -58,16 +58,16 @@
 		180
 	],
 	"fuelCapacity_L": [
-		50800,73400
+		50800,73400,73400
 	],
 	"engineType": [
 		"turbofan"
 	],
 	"takeoffDistance_M": [
-		1900,2480
+		1900,2480,2500
 	],
 	"maxTOW_KG": [
-		142900,179200
+		142900,179200,179200
 	],
 	"needStairs": [
 		true
@@ -106,7 +106,7 @@
 		false
 	],
 	"cargo": [
-		false
+		false,false,true
 	],
 	"loud": [
 		false
