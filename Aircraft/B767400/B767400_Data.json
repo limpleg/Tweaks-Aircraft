@@ -4,6 +4,7 @@
     "numEngines": 2,
     "wingSpan_M": 51.90,
     "length_M": 61.40,
+	"forcedReScale" : 1.0935,
     "size": 2,
     "threeStepSize": 2,
     "displayName": ["B767-400"],
