@@ -30,16 +30,24 @@
 	"yearRetired": [
 		2024
 	],
-	"capacity_PAX": [],
-	"exitLimit_PAX": [],
-	"seatsAbreast": [],
+	"capacity_PAX": [
+		575
+	],
+	"exitLimit_PAX": [
+		853
+	],
+	"seatsAbreast": [
+		10
+	],
 	"capacityULDLowerDeck": [
 		7
 	],
 	"capacityULDUpperDeck": [
 		0
 	],
-	"capacityBulkCargo_KG": [],
+	"capacityBulkCargo_KG": [
+		40000
+	],
 	"range_KM": [
 		14800
 	],
