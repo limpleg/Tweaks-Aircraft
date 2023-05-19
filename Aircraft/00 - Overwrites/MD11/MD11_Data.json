@@ -7,6 +7,7 @@
     "numEngines": 3,
     "wingSpan_M": 51.97,
     "length_M": 61.6,
+	"forcedReScale" : 0.9668,
     "size": 1,
     "threeStepSize": 2,
     "displayName": [
