@@ -1,43 +1,43 @@
 {
 	"id": [
-		"CESSNA208"
+		"TU154"
 	],
-	"copyFrom": "CESSNA208",
-	"numEngines": 1,
-	"wingSpan_M": 15.87,
-	"length_M": 11.46,
-	"forcedReScale" : 0.8093,
-	"size": 6,
-	"threeStepSize": 0,
+	"copyFrom": "TU154",
+	"numEngines": 3,
+	"wingSpan_M": 37.55,
+	"length_M": 48,
+	"forcedReScale" : 1.0818,
+	"size": 3,
+	"threeStepSize": 1,
 	"displayName": [
-		"208 Caravan"
+		"Tu-154"
 	],
 	"iCAOCode": [
-		"C208"
+		"T154"
 	],
 	"manufacturer": [
-		"Cessna"
+		"Tupolev"
 	],
 	"numBuilt": [
-		2600
+		1026
 	],
 	"yearIntroduced": [
-		1982
+		1968
 	],
 	"yearLastProduced": [
-		2030
+		2013
 	],
 	"yearRetired": [
-		2045
+		2020
 	],
 	"capacity_PAX": [
-		9
+		130
 	],
 	"exitLimit_PAX": [
-		13
+		180
 	],
 	"seatsAbreast": [
-		3
+		6
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,31 +46,31 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		450
+		2800
 	],
 	"range_KM": [
-		1982
+		5280
 	],
 	"speed_KMH": [
-		343
+		913
 	],
 	"etops_Minutes": [
-		60
+		120
 	],
 	"fuelCapacity_L": [
-		1257
+		39700
 	],
 	"engineType": [
-		"turboprop"
+		"low_turbofan"
 	],
 	"takeoffDistance_M": [
-		450
+		1890
 	],
 	"maxTOW_KG": [
-		3629
+		103000
 	],
 	"needStairs": [
-		false
+		true
 	],
 	"needPushback": [
 		false
@@ -85,16 +85,16 @@
 		true
 	],
 	"jetbridgePoints": [
-		0
+		2
 	],
 	"conveyerPoints": [
-		0
+		2
 	],
 	"cleaningPoints": [
-		0
+		1
 	],
 	"cateringPoints": [
-		0
+		1
 	],
 	"sonicBoom": [
 		false
@@ -109,9 +109,9 @@
 		false
 	],
 	"loud": [
-		false
+		true
 	],
 	"quiet": [
-		true
+		false
 	]
 }

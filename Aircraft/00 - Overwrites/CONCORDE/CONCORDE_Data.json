@@ -1,43 +1,43 @@
 {
 	"id": [
-		"CESSNA208"
+		"CONCORDE"
 	],
-	"copyFrom": "CESSNA208",
-	"numEngines": 1,
-	"wingSpan_M": 15.87,
-	"length_M": 11.46,
-	"forcedReScale" : 0.8093,
-	"size": 6,
-	"threeStepSize": 0,
+	"copyFrom": "CONCORDE",
+	"numEngines": 4,
+	"wingSpan_M": 25.6,
+	"length_M": 61.66,
+	"forcedReScale" : 1.1084,
+	"size": 1,
+	"threeStepSize": 2,
 	"displayName": [
-		"208 Caravan"
+		"Concorde"
 	],
 	"iCAOCode": [
-		"C208"
+		"CONC"
 	],
 	"manufacturer": [
-		"Cessna"
+		"BAE Systems/Aérospatiale"
 	],
 	"numBuilt": [
-		2600
+		20
 	],
 	"yearIntroduced": [
-		1982
+		1969
 	],
 	"yearLastProduced": [
-		2030
+		1979
 	],
 	"yearRetired": [
-		2045
+		2003
 	],
 	"capacity_PAX": [
-		9
+		90
 	],
 	"exitLimit_PAX": [
-		13
+		128
 	],
 	"seatsAbreast": [
-		3
+		4
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,61 +46,61 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		450
+		2400
 	],
 	"range_KM": [
-		1982
+		7223
 	],
 	"speed_KMH": [
-		343
+		2158
 	],
 	"etops_Minutes": [
-		60
+		360
 	],
 	"fuelCapacity_L": [
-		1257
+		118114.96
 	],
 	"engineType": [
-		"turboprop"
+		"turbojet"
 	],
 	"takeoffDistance_M": [
-		450
+		3600
 	],
 	"maxTOW_KG": [
-		3629
+		185070
 	],
 	"needStairs": [
-		false
+		true
 	],
 	"needPushback": [
-		false
+		true
 	],
 	"needPaved": [
-		false
+		true
 	],
 	"needHeavyPaved": [
-		false
+		true
 	],
 	"canGetPushback": [
 		true
 	],
 	"jetbridgePoints": [
-		0
+		1
 	],
 	"conveyerPoints": [
-		0
+		1
 	],
 	"cleaningPoints": [
-		0
+		1
 	],
 	"cateringPoints": [
-		0
+		1
 	],
 	"sonicBoom": [
-		false
+		true
 	],
 	"vIP": [
-		false
+		true
 	],
 	"combi": [
 		false
@@ -109,9 +109,9 @@
 		false
 	],
 	"loud": [
-		false
+		true
 	],
 	"quiet": [
-		true
+		false
 	]
 }

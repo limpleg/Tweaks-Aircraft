@@ -1,43 +1,43 @@
 {
 	"id": [
-		"CESSNA208"
+		"AN148"
 	],
-	"copyFrom": "CESSNA208",
-	"numEngines": 1,
-	"wingSpan_M": 15.87,
-	"length_M": 11.46,
-	"forcedReScale" : 0.8093,
+	"copyFrom": "AN148",
+	"numEngines": 2,
+	"wingSpan_M": 28.91,
+	"length_M": 29.13,
+	"forcedReScale" : 0.9016,
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
-		"208 Caravan"
+		"An-148"
 	],
 	"iCAOCode": [
-		"C208"
+		"A148"
 	],
 	"manufacturer": [
-		"Cessna"
+		"Antonov"
 	],
 	"numBuilt": [
-		2600
+		47
 	],
 	"yearIntroduced": [
-		1982
+		2009
 	],
 	"yearLastProduced": [
-		2030
+		2022
 	],
 	"yearRetired": [
-		2045
+		2035
 	],
 	"capacity_PAX": [
-		9
+		75
 	],
 	"exitLimit_PAX": [
-		13
+		85
 	],
 	"seatsAbreast": [
-		3
+		5
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,34 +46,34 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		450
+		1000
 	],
 	"range_KM": [
-		1982
+		4400
 	],
 	"speed_KMH": [
-		343
+		870
 	],
 	"etops_Minutes": [
-		60
+		90
 	],
 	"fuelCapacity_L": [
-		1257
+		14942
 	],
 	"engineType": [
-		"turboprop"
+		"turbofan"
 	],
 	"takeoffDistance_M": [
-		450
+		1620
 	],
 	"maxTOW_KG": [
-		3629
+		43700
 	],
 	"needStairs": [
 		false
 	],
 	"needPushback": [
-		false
+		true
 	],
 	"needPaved": [
 		false
@@ -85,16 +85,16 @@
 		true
 	],
 	"jetbridgePoints": [
-		0
+		1
 	],
 	"conveyerPoints": [
-		0
+		1
 	],
 	"cleaningPoints": [
-		0
+		1
 	],
 	"cateringPoints": [
-		0
+		1
 	],
 	"sonicBoom": [
 		false
@@ -112,6 +112,6 @@
 		false
 	],
 	"quiet": [
-		true
+		false
 	]
 }
