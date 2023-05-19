@@ -1,82 +1,82 @@
 {
 	"id": [
-		"PC24"
+		"B767300","B767300ER","B767300F"
 	],
-	"copyFrom": "PC24",
+	"copyFrom": "B767300",
 	"numEngines": 2,
-	"wingSpan_M": 17,
-	"length_M": 16.85,
-	"forcedReScale" : 0.8482,
-	"size": 7,
-	"threeStepSize": 0,
+	"wingSpan_M": 47.57,
+	"length_M": 54.94,
+	"forcedReScale" : 1.0935,
+	"size": 1,
+	"threeStepSize": 2,
 	"displayName": [
-		"PC-24"
+		"B767-300","B767-300ER","B767-300F"
 	],
 	"iCAOCode": [
-		"PC24"
+		"B763"
 	],
 	"manufacturer": [
-		"Pilatus"
+		"Boeing"
 	],
 	"numBuilt": [
-		120
+		104,583,280
 	],
 	"yearIntroduced": [
-		2018
+		1986,1988,1995
 	],
 	"yearLastProduced": [
-		2035
+		2005,2005,2025
 	],
 	"yearRetired": [
-		2050
+		2025,2030,2040
 	],
 	"capacity_PAX": [
-		8
+		261,262,0
 	],
 	"exitLimit_PAX": [
-		8
+		351,351,0
 	],
 	"seatsAbreast": [
-		2
+		7,7,0
 	],
 	"capacityULDLowerDeck": [
-		0
+		4
 	],
 	"capacityULDUpperDeck": [
-		0
+		0,0,6
 	],
 	"capacityBulkCargo_KG": [
-		400
+		24000
 	],
 	"range_KM": [
-		3334
+		7200,11070,11070
 	],
 	"speed_KMH": [
-		815
+		900
 	],
 	"etops_Minutes": [
-		120
+		180
 	],
 	"fuelCapacity_L": [
-		3363
+		50800,73400,73400
 	],
 	"engineType": [
 		"turbofan"
 	],
 	"takeoffDistance_M": [
-		820
+		2800,2650,2800
 	],
 	"maxTOW_KG": [
-		8300
+		158800,186900,186900
 	],
 	"needStairs": [
-		false
+		true
 	],
 	"needPushback": [
 		true
 	],
 	"needPaved": [
-		false
+		true
 	],
 	"needHeavyPaved": [
 		false
@@ -85,28 +85,28 @@
 		true
 	],
 	"jetbridgePoints": [
-		0
+		2
 	],
 	"conveyerPoints": [
-		0
+		2
 	],
 	"cleaningPoints": [
-		0
+		1
 	],
 	"cateringPoints": [
-		0
+		1
 	],
 	"sonicBoom": [
 		false
 	],
 	"vIP": [
-		true
+		false
 	],
 	"combi": [
 		false
 	],
 	"cargo": [
-		false
+		false,false,true
 	],
 	"loud": [
 		false
