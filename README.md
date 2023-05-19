@@ -75,6 +75,8 @@ Aircraft Pack For Use With ACEO Tweaks
 * 1900D
 * A330-200
     * -200F
+* A380
+* An148
 * B377
 * B707-320
 * B737-600
@@ -89,12 +91,27 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200M
     * -200F
+* B767-200
+    * -200
+    * -200ER
+* B767-300
+    * -300
+    * -300ER
+    * -300F 
+* B777-200
+    * -200
+    * -200ER
 * B777-200LR
-    * B777F
+    * -200LR
+    * -200F
+* B777-300
+    * -300
+    * -300ER
 * Baron 58
 * Cessna 182
 * Cessna 208
 * Comet4
+* Concorde
 * CRJ 200
     * CRJ 100
     * CRJ 200
@@ -109,6 +126,8 @@ Aircraft Pack For Use With ACEO Tweaks
 * Ford Trimotor
 * L1049
 * LJ75
+* MD11
+      MD11F
 * MD80
      * *"MD80" interpreted as MD83*
      * MD81
@@ -116,13 +135,14 @@ Aircraft Pack For Use With ACEO Tweaks
      * MD83
      * MD88
      * MD80 Freighter Conversion, again interpreted as MD83
-* MD11
-      MD11F
 * PA28
 * Piper Cub
 * PC12
 * PC24
 * SAAB340
 * SF50
+* Tu114
+* Tu144
+* Tu154
 * VC10
 * WT9
