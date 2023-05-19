@@ -1,73 +1,65 @@
 {
 	"id": [
-		"B3XM"
+		"A380"
 	],
-	"copyFrom": "B737800",
-	"numEngines": 2,
-	"wingSpan_M": 35.92,
-	"length_M": 43.80,
-	"forcedReScale" : 1.0136,
-	"size": 2,
-	"threeStepSize": 1,
+	"copyFrom": "A380",
+	"numEngines": 4,
+	"wingSpan_M": 79.75,
+	"length_M": 72.72,
+	"forcedReScale" : 1.1357,
+	"size": 0,
+	"threeStepSize": 2,
 	"displayName": [
-		"B737 MAX 10"
+		"Airbus A380"
 	],
 	"iCAOCode": [
-		"B3XM"
+		"A388"
 	],
 	"manufacturer": [
-		"Boeing"
+		"Airbus"
 	],
 	"numBuilt": [
-		17
+		251
 	],
 	"yearIntroduced": [
-		2019
+		2005
 	],
 	"yearLastProduced": [
-		2050
+		2021
 	],
 	"yearRetired": [
-		2050
+		2024
 	],
-	"capacity_PAX": [
-		204
-	],
-	"exitLimit_PAX": [
-		244
-	],
-	"seatsAbreast": [
-		6
-	],
+	"capacity_PAX": [],
+	"exitLimit_PAX": [],
+	"seatsAbreast": [],
 	"capacityULDLowerDeck": [
-		0
+		7
 	],
 	"capacityULDUpperDeck": [
 		0
 	],
-	"capacityBulkCargo_KG": [
-		6954
-	],
+	"capacityBulkCargo_KG": [],
 	"range_KM": [
-		6100
+		14800
 	],
 	"speed_KMH": [
-		838
+		903
 	],
 	"etops_Minutes": [
-		120
+		360
 	],
 	"fuelCapacity_L": [
-		25800
+		320000
 	],
 	"engineType": [
 		"turbofan"
 	],
 	"takeoffDistance_M": [
-		2600
+		2987.04
 	],
 	"maxTOW_KG": [
-		89800
+		575000
 	],
 	"needStairs": [
 		true
@@ -79,7 +71,7 @@
 		true
 	],
 	"needHeavyPaved": [
-		false
+		true
 	],
 	"canGetPushback": [
 		true
@@ -112,6 +104,6 @@
 		false
 	],
 	"quiet": [
-		true
+		false
 	]
 }

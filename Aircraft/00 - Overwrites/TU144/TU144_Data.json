@@ -1,43 +1,43 @@
 {
 	"id": [
-		"B3XM"
+		"TU144"
 	],
-	"copyFrom": "B737800",
-	"numEngines": 2,
-	"wingSpan_M": 35.92,
-	"length_M": 43.80,
-	"forcedReScale" : 1.0136,
-	"size": 2,
-	"threeStepSize": 1,
+	"copyFrom": "TU144",
+	"numEngines": 4,
+	"wingSpan_M": 28.8,
+	"length_M": 65.7,
+	"forcedReScale" : 1.0226,
+	"size": 0,
+	"threeStepSize": 2,
 	"displayName": [
-		"B737 MAX 10"
+		"Tu-144"
 	],
 	"iCAOCode": [
-		"B3XM"
+		"T144"
 	],
 	"manufacturer": [
-		"Boeing"
+		"Tupolev"
 	],
 	"numBuilt": [
-		17
+		16
 	],
 	"yearIntroduced": [
-		2019
+		1968
 	],
 	"yearLastProduced": [
-		2050
+		1983
 	],
 	"yearRetired": [
-		2050
+		1983
 	],
 	"capacity_PAX": [
-		204
+		150
 	],
 	"exitLimit_PAX": [
-		244
+		165
 	],
 	"seatsAbreast": [
-		6
+		4
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,28 +46,28 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		6954
+		3200
 	],
 	"range_KM": [
-		6100
+		6500
 	],
 	"speed_KMH": [
-		838
+		2125
 	],
 	"etops_Minutes": [
-		120
+		360
 	],
 	"fuelCapacity_L": [
-		25800
+		115320
 	],
 	"engineType": [
-		"turbofan"
+		"turbojet"
 	],
 	"takeoffDistance_M": [
-		2600
+		2930
 	],
 	"maxTOW_KG": [
-		89800
+		207000
 	],
 	"needStairs": [
 		true
@@ -79,25 +79,25 @@
 		true
 	],
 	"needHeavyPaved": [
-		false
+		true
 	],
 	"canGetPushback": [
 		true
 	],
 	"jetbridgePoints": [
-		2
+		3
 	],
 	"conveyerPoints": [
-		2
+		3
 	],
 	"cleaningPoints": [
-		1
+		3
 	],
 	"cateringPoints": [
-		1
+		3
 	],
 	"sonicBoom": [
-		false
+		true
 	],
 	"vIP": [
 		false
@@ -109,9 +109,9 @@
 		false
 	],
 	"loud": [
-		false
+		true
 	],
 	"quiet": [
-		true
+		false
 	]
 }

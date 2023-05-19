@@ -1,43 +1,43 @@
 {
 	"id": [
-		"B3XM"
+		"CONCORDE"
 	],
-	"copyFrom": "B737800",
-	"numEngines": 2,
-	"wingSpan_M": 35.92,
-	"length_M": 43.80,
-	"forcedReScale" : 1.0136,
-	"size": 2,
-	"threeStepSize": 1,
+	"copyFrom": "CONCORDE",
+	"numEngines": 4,
+	"wingSpan_M": 25.6,
+	"length_M": 61.66,
+	"forcedReScale" : 1.1084,
+	"size": 1,
+	"threeStepSize": 2,
 	"displayName": [
-		"B737 MAX 10"
+		"Concorde"
 	],
 	"iCAOCode": [
-		"B3XM"
+		"CONC"
 	],
 	"manufacturer": [
-		"Boeing"
+		"BAE Systems/Aérospatiale"
 	],
 	"numBuilt": [
-		17
+		20
 	],
 	"yearIntroduced": [
-		2019
+		1969
 	],
 	"yearLastProduced": [
-		2050
+		1979
 	],
 	"yearRetired": [
-		2050
+		2003
 	],
 	"capacity_PAX": [
-		204
+		90
 	],
 	"exitLimit_PAX": [
-		244
+		128
 	],
 	"seatsAbreast": [
-		6
+		4
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,28 +46,28 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		6954
+		2400
 	],
 	"range_KM": [
-		6100
+		7223
 	],
 	"speed_KMH": [
-		838
+		2158
 	],
 	"etops_Minutes": [
-		120
+		360
 	],
 	"fuelCapacity_L": [
-		25800
+		118114.96
 	],
 	"engineType": [
-		"turbofan"
+		"turbojet"
 	],
 	"takeoffDistance_M": [
-		2600
+		3600
 	],
 	"maxTOW_KG": [
-		89800
+		185070
 	],
 	"needStairs": [
 		true
@@ -79,16 +79,16 @@
 		true
 	],
 	"needHeavyPaved": [
-		false
+		true
 	],
 	"canGetPushback": [
 		true
 	],
 	"jetbridgePoints": [
-		2
+		1
 	],
 	"conveyerPoints": [
-		2
+		1
 	],
 	"cleaningPoints": [
 		1
@@ -97,10 +97,10 @@
 		1
 	],
 	"sonicBoom": [
-		false
+		true
 	],
 	"vIP": [
-		false
+		true
 	],
 	"combi": [
 		false
@@ -109,9 +109,9 @@
 		false
 	],
 	"loud": [
-		false
+		true
 	],
 	"quiet": [
-		true
+		false
 	]
 }

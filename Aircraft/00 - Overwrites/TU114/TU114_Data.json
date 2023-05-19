@@ -1,76 +1,76 @@
 {
 	"id": [
-		"MD80","MD81","MD82","MD83","MD88","MD80SF"
+		"TU114"
 	],
-	"copyFrom": "MD80",
-	"numEngines": 2,
-	"wingSpan_M": 32.82,
-	"length_M": 45.06,
-	"forcedReScale" : 0.9937,
-	"size": 4,
-	"threeStepSize": 1,
+	"copyFrom": "TU114",
+	"numEngines": 4,
+	"wingSpan_M": 51.1,
+	"length_M": 54.1,
+	"forcedReScale" : 0.8717,
+	"size": 1,
+	"threeStepSize": 2,
 	"displayName": [
-		"MD-80","MD-81","MD-82","MD-83","MD-88","MD-80SF"
+		"Tu-114 Rossiya"
 	],
 	"iCAOCode": [
-		"MD83","MD81","MD82","MD83","MD88","MD83"
+		"T114"
 	],
 	"manufacturer": [
-		"McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","McDonnell Douglas","AEI Freighter Conversions"
+		"Tupolev"
 	],
 	"numBuilt": [
-		1116,132,569,265,150,98
+		32
 	],
 	"yearIntroduced": [
-		1985,1980,1981,1985,1987,2010
+		1958
 	],
 	"yearLastProduced": [
-		1999,1994,1997,1999,1997,2030
+		1963
 	],
 	"yearRetired": [
-		2020,2020,2020,2020,2020,2040
+		1976
 	],
 	"capacity_PAX": [
-		143,143,143,143,143,0
+		206
 	],
 	"exitLimit_PAX": [
-		167
+		220
 	],
 	"seatsAbreast": [
-		5
+		6
 	],
 	"capacityULDLowerDeck": [
 		0
 	],
 	"capacityULDUpperDeck": [
-		0,0,0,0,0,6
+		0
 	],
 	"capacityBulkCargo_KG": [
-		2500,2500,2500,2500,2500,16000
+		4500
 	],
 	"range_KM": [
-		3800,2900,2900,3800,3800,3800
+		8950
 	],
 	"speed_KMH": [
-		876
+		880
 	],
 	"etops_Minutes": [
-		60
+		360
 	],
 	"fuelCapacity_L": [
-		26400,22100,22100,26400,26400,26400
+		72980
 	],
 	"engineType": [
-		"low_turbofan"
+		"turboprop"
 	],
 	"takeoffDistance_M": [
-		2550,2600,2270,2550,2550,2550
+		2500
 	],
 	"maxTOW_KG": [
-		73000,63500,67800,73000,73000
+		171000
 	],
 	"needStairs": [
-		false
+		true
 	],
 	"needPushback": [
 		false
@@ -106,7 +106,7 @@
 		false
 	],
 	"cargo": [
-		false,false,false,false,false,true
+		false
 	],
 	"loud": [
 		true
