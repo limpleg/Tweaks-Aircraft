@@ -8,7 +8,7 @@
 	"length_M": 29.13,
 	"forcedReScale" : 0.9016,
 	"size": 6,
-	"threeStepSize": 0,
+	"threeStepSize": 1,
 	"displayName": [
 		"An-148"
 	],
