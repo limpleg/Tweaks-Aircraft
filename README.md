@@ -28,6 +28,10 @@ Aircraft Pack For Use With ACEO Tweaks
 * A330 NEO Family
     * A330-800
     * A330-900
+* A340 Family
+    * A340-200
+    * A340-500
+	* A340-600
 * B737 MAX Family
     * MAX 7    
     * MAX 8
@@ -73,10 +77,13 @@ Aircraft Pack For Use With ACEO Tweaks
 ### Updates/Additions Without Visual Changes
 
 *If you are mod author and want to see something here please do let me know; the non-visual variants are pretty quick*
+Note that you need to change "aircraftType" in liveryData.json
 
 * 1900D
 * A330-200
     * -200F
+	* -300P2F
+* A340-300	
 * A380
 * An148
 * B377
