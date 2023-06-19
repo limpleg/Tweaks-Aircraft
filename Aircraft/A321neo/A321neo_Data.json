@@ -11,11 +11,11 @@
     "size": 3,
     "threeStepSize": 1,
     "displayName": [
-	"A320neo",
+	"A321neo",
 	"A321LR",
 	"A321XLR"
 	],
-    "iCAOCode": ["A20N"],
+    "iCAOCode": ["A21N"],
     "manufacturer": ["Airbus"],
     "numBuilt": [
 	850,
