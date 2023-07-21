@@ -32,18 +32,29 @@ Aircraft Pack For Use With ACEO Tweaks
     * A340-200
     * A340-500
 	* A340-600
-* B737 MAX Family
-    * MAX 7    
-    * MAX 8
-    * MAX 200
-    * MAX 9
-    * MAX 10
+* B737 Original Family
+    * -100   
+    * -200
+    * -200C
+* B737 Classic Family
+    * -300    
+    * -300QC
+    * -300F
+    * -400
+    * -400SF
+    * -500	
 * B737 NG Family
     * -700    
     * -700F
     * -800BCF
     * -900
     * -900ER
+* B737 MAX Family
+    * MAX 7    
+    * MAX 8
+    * MAX 200
+    * MAX 9
+    * MAX 10	
 * B747 Family
     * -100
     * -200B
