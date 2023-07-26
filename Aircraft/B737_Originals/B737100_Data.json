@@ -1,0 +1,117 @@
+{
+	"id": [
+		"B737100"
+	],
+	"copyFrom": "B737600",
+	"numEngines": 2,
+	"wingSpan_M": 28.35,
+	"length_M": 28.65,
+	"forcedReScale" : 1.0,
+	"size": 3,
+	"threeStepSize": 1,
+	"displayName": [
+		"B737-100"
+	],
+	"iCAOCode": [
+		"B731"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		30
+	],
+	"yearIntroduced": [
+		1967
+	],
+	"yearLastProduced": [
+		1969
+	],
+	"yearRetired": [
+		2003
+	],
+	"capacity_PAX": [
+		113
+	],
+	"exitLimit_PAX": [
+		124
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2996
+	],
+	"range_KM": [
+		1720
+	],
+	"speed_KMH": [
+		796
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		17865
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1859
+	],
+	"maxTOW_KG": [
+		44225
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

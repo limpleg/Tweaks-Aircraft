@@ -1,0 +1,758 @@
+{
+  "aircraftType" : "B737400SF",
+  "liveryFileName" : "B737Classic.png",
+  "pixelSize" : 205,
+  "liveryComponent" : [
+	{
+            "name": "config_exactly_NightWindows (1)_NightWindows (2)_RightWing_LeftWing_LeftTail_Flaps_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },  
+    {
+      "name" : "Fuselage",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 1280
+      },
+      "sliceSize" : {
+        "x" : 5976,
+        "y" : 590
+      },
+      "position" : {
+        "x" : -2.43,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "EngineLeft",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 9,
+        "y" : 1925
+      },
+      "sliceSize" : {
+        "x" : 603,
+        "y" : 344
+      },
+      "position" : {
+        "x" : 0.697560975609,
+        "y" : 3.83339256097317,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "EngineRigth",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 660,
+        "y" : 1925
+      },
+      "sliceSize" : {
+        "x" : 603,
+        "y" : 344
+      },
+      "position" : {
+        "x" : 0.697560975609,
+        "y" : -3.83339256097317,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "EmergencyExitLeft",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 1436,
+        "y" : 2035
+      },
+      "sliceSize" : {
+        "x" : 701,
+        "y" : 157
+      },
+      "position" : {
+        "x" : -1.0487787803853658,
+        "y" : 1.8146341463414633707317,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 0
+    },
+    {
+      "name" : "EmergencyExitRigth",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 1436,
+        "y" : 2035
+      },
+      "sliceSize" : {
+        "x" : 701,
+        "y" : 157
+      },
+      "position" : {
+        "x" : -1.0487787803853658,
+        "y" : -1.8146341463414633707317,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 1
+      },
+      "rotation" : 0
+    },		
+			        {  
+         "name":"Wing LeftTweak",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":52,
+            "y":2379
+         },
+         "sliceSize":{  
+            "x":2095,
+            "y":1532
+         },
+         "position":{  
+            "x":-1.892681219409,
+            "y":-6.5270697554,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+	  	        {  
+         "name":"Wing RigthTweak",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":52,
+            "y":2379
+         },
+         "sliceSize":{  
+            "x":2095,
+            "y":1532
+         },
+         "position":{  
+            "x":-1.892681219409,
+            "y":6.5270697554,
+            "z":0
+         },
+         "flip":{  
+            "x":1,
+            "y":0
+         },
+         "rotation":270
+      },
+			        {  
+         "name":"WingTipLeft",
+         "layerOrder":3,
+         "slicePosition":{  
+            "x":2242,
+            "y":2385
+         },
+         "sliceSize":{  
+            "x":74,
+            "y":340
+         },
+         "position":{  
+            "x":-4.768290975506,
+            "y":-11.449020974863,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+	  	        {  
+         "name":"WingTipRight",
+         "layerOrder":3,
+         "slicePosition":{  
+            "x":2242,
+            "y":2385
+         },
+         "sliceSize":{  
+            "x":74,
+            "y":340
+         },
+         "position":{  
+            "x":-4.768290975506,
+            "y":11.449020974863,
+            "z":0
+         },
+         "flip":{  
+            "x":1,
+            "y":0
+         },
+         "rotation":270
+      },	  
+				{  
+            "name":"LeftTail Tweaks",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":2393,
+                "y":1995
+            },
+            "sliceSize":{  
+                "x":978,
+                "y":823
+            },
+            "position":{  
+                "x":-14.533840779878,
+                "y":-2.429268292682853,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":270
+        },
+				{  
+            "name":"RigthTail Tweaks",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":2393,
+                "y":1995
+            },
+            "sliceSize":{  
+                "x":978,
+                "y":823
+            },
+            "position":{  
+                "x":-14.533840779878,
+                "y":2.429268292682853,
+                "z":0
+            },
+            "flip":{  
+                "x":1,
+                "y":0
+            },
+            "rotation":270
+        },		
+				{  
+            "name":"config_exactly_TowBarPoint_ChristmasHatPosition_Front1_Front2_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.76097675582968292,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":1.231706171,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_NightWindows (3)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":2.4243902447536,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+	
+				{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.0390275610312,
+                "y":-1.414634634102,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.0390275610312,
+                "y":1.414634634102,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_BeconLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.2097553658449609,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_StrobeLightBack_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-3.30245878046004,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_DeicingPosition1_DeicingPosition2_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.5512195121902,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_RearCargoDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-3.814634634092,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_WasteAccessDoor_RightRearDoor_LeftRearDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-2.253658633242,
+                "y":0.4,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":10
+        },
+				{  
+            "name":"config_exactly_LeftFrontDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":3.0097563478,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_RightFrontDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":2.434146592238582,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+				{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.3317073170731,
+                "y":-2.05853795106341,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.3317073170731,
+                "y":2.05853795106341,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.95365365756075,
+                "y":1.03901925358,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.95365365756075,
+                "y":-1.03901925358,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_TaxiLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.841463414829682,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+				{  
+            "name":"config_exactly_WheelCarrige_Engine1.1_Engine1.2_Engine2.1_Engine2.2_Wing1.1_Wing1.2_Wing2.1_Wing2.2_APU_GPU_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.39268292682924,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_Cone_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.29024390243924,
+                "y":-1.385365853658,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_Cone (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.29024390243924,
+                "y":1.385365853658,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 4869,
+				"y" : 2895
+			},
+			"sliceSize" : {
+				"x" : 1115,
+				"y" : 891
+            },
+            "position":{  
+                "x":-2.636585365,
+                "y":0.05,
+                "z":0
+            },
+      "rotation" : 0
+    },			
+		{
+      "name": "NavigationWindowsLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 2561,
+        "y" : 3190
+      },
+      "sliceSize" : {
+        "x" : 87,
+        "y" : 306
+      },
+      "position" : {
+        "x" : 10.0675609668292,
+        "y" : 0.01951219512,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_NavigationWindowsLights_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }	
+  ]
+}

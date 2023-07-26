@@ -1,0 +1,117 @@
+{
+	"id": [
+		"B737500"
+	],
+	"copyFrom": "B737600",
+	"numEngines": 2,
+	"wingSpan_M": 28.88,
+	"length_M": 31.10,
+	"forcedReScale" : 1.0,
+	"size": 3,
+	"threeStepSize": 1,
+	"displayName": [
+		"B737-500"
+	],
+	"iCAOCode": [
+		"B735"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		389
+	],
+	"yearIntroduced": [
+		1990
+	],
+	"yearLastProduced": [
+		1999
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		122
+	],
+	"exitLimit_PAX": [
+		145
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		3356
+	],
+	"range_KM": [
+		4398
+	],
+	"speed_KMH": [
+		812
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		20105
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1832
+	],
+	"maxTOW_KG": [
+		62823
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

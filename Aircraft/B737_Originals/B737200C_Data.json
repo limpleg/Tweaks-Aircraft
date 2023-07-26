@@ -1,0 +1,117 @@
+{
+	"id": [
+		"B737200C"
+	],
+	"copyFrom": "B737600",
+	"numEngines": 2,
+	"wingSpan_M": 28.35,
+	"length_M": 30.53,
+	"forcedReScale" : 1.0,
+	"size": 3,
+	"threeStepSize": 1,
+	"displayName": [
+		"B737-200C"
+	],
+	"iCAOCode": [
+		"B732"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		96
+	],
+	"yearIntroduced": [
+		1968
+	],
+	"yearLastProduced": [
+		1988
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		118
+	],
+	"exitLimit_PAX": [
+		124
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		7
+	],
+	"capacityBulkCargo_KG": [
+		3256
+	],
+	"range_KM": [
+		2645
+	],
+	"speed_KMH": [
+		796
+	],
+	"etops_Minutes": [
+		120
+	],
+	"fuelCapacity_L": [
+		22600
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1859
+	],
+	"maxTOW_KG": [
+		58105
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		true
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}
