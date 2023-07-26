@@ -1,0 +1,173 @@
+{
+  "aircraftType" : "B747300SR",
+  "liveryFileName" : "B747Family.png",
+  "pixelSize" : 145,
+  "liveryComponent" : [
+ 	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 1909,
+				"y" : 11
+			},
+			"sliceSize" : {
+				"x" : 788,
+				"y" : 872
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_NightWindows (3)_NightWindows (4)_NightWindows (5)_NightWindows (6)_NightWindows (7)_NightWindows (8)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+		{
+      "name": "UpperdeckSRLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 8186
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "UpperdeckLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 8938
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "Back300MLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 9707
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "FrontLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 11354
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+			{
+      "name": "BackLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 10471
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_BackLights_FrontLights_Back300MLights_UpperdeckLights_UpperdeckSRLights_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+				{  
+            "name":"config_exactly_LandingLight_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.689655,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }		
+  ]
+}

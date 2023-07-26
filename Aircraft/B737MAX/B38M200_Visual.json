@@ -1,0 +1,207 @@
+{
+  "aircraftType" : "B38M200",
+  "liveryFileName" : "B737MAXFamily.png",
+  "pixelSize" : 205,
+  "liveryComponent" : [
+		{
+            "name": "config_exactly_NightWindows (1)_NightWindows (2)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+				{  
+            "name":"config_exactly_StrobeLightBack_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.8195,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.23414,
+                "y":-0.560973,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.23414,
+                "y":0.560973,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.6878,
+                "y":0.71219,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.6878,
+                "y":-0.71219,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 1300,
+				"y" : 3742
+			},
+			"sliceSize" : {
+				"x" : 961,
+				"y" : 938
+            },
+            "position":{  
+                "x":-2,
+                "y":1,
+                "z":-9999
+            },
+      "rotation" : 0
+    },			
+		{
+      "name": "MAX8Lights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 5669
+      },
+      "sliceSize" : {
+        "x" : 5987,
+        "y" : 593
+      },
+      "position" : {
+        "x" : -2.43,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "MAX200Lights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 6273
+      },
+      "sliceSize" : {
+        "x" : 5987,
+        "y" : 593
+      },
+      "position" : {
+        "x" : -2.43,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_Max8Lights_Max200Lights_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }	
+  ]
+}

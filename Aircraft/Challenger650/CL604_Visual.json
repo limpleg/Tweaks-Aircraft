@@ -1,0 +1,105 @@
+{  
+    "aircraftType":"CL604",
+    "liveryFileName":"CL650_Mod.png",
+    "pixelSize":187.5,
+    "liveryComponent":[  
+		{  
+      "name":"config_exactly_NightWindows1 (1)_NightWindows1_exactly_disable",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },
+	{  
+      "name":"mywindows1_config_self_makewindow",
+      "layerOrder" : 6,
+            "slicePosition":{  
+                "x":8,
+                "y":22
+            },
+            "sliceSize":{  
+                "x":3818,
+                "y":429
+            },
+            "position":{  
+                "x":-1.06,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{  
+    "name":"mywindows2_config_self_makewindow",
+      "layerOrder" : 6,
+            "slicePosition":{  
+                "x":8,
+                "y":22
+            },
+            "sliceSize":{  
+                "x":3818,
+                "y":429
+            },
+            "position":{  
+                "x":-1.06,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{  
+            "name":"config_exactly_NightWindows1 (2)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.299,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_frontdoors_exactly_LeftFrontDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.519,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }			
+    ]
+}

@@ -21,180 +21,12 @@
       },
       "rotation" : 0
     }, 
-        {  
-            "name":"Fuselage1",
-            "layerOrder":4,
-            "slicePosition":{  
-                "x":28,
-                "y":700
-            },
-            "sliceSize":{  
-                "x":3944,
-                "y":652
-            },
-            "position":{  
-                "x":-11.85,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Fuselage2",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":194,
-                "y":19
-            },
-            "sliceSize":{  
-                "x":3846,
-                "y":652
-            },
-            "position":{  
-                "x":11.78,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine1",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":7,
-                "y":1392
-            },
-            "sliceSize":{  
-                "x":582,
-                "y":261
-            },
-            "position":{  
-                "x":3.406666666,
-                "y":-6.859,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-{  
-            "name":"Engine11",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":2132,
-                "y":1392
-            },
-            "sliceSize":{  
-                "x":582,
-                "y":261
-            },
-            "position":{  
-                "x":-1.593333333,
-                "y":-14.85,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine2",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":659,
-                "y":1398
-            },
-            "sliceSize":{  
-                "x":582,
-                "y":261
-            },
-            "position":{  
-                "x":3.406666666,
-                "y":6.859,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine22",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":2789,
-                "y":1398
-            },
-            "sliceSize":{  
-                "x":582,
-                "y":261
-            },
-            "position":{  
-                "x":-1.593333333,
-                "y":14.85,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Winglet1",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":1594,
-                "y":1390
-            },
-            "sliceSize":{  
-                "x":156,
-                "y":311
-            },
-            "position":{  
-                "x":-8.3933333,
-                "y":-22.586,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":270
-        },
-        {  
-            "name":"Winglet2",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":1790,
-                "y":1390
-            },
-            "sliceSize":{  
-                "x":156,
-                "y":311
-            },
-            "position":{  
-                "x":-8.3933333,
-                "y":22.586,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":90
-        },
-        {  
+       {  
             "name":"NightWindowsBack",
             "layerOrder":7,
             "slicePosition":{  
                 "x":28,
-                "y":2933
+                "y":727
             },
             "sliceSize":{  
                 "x":3944,
@@ -212,7 +44,7 @@
             "layerOrder":7,
             "slicePosition":{  
                 "x":194,
-                "y":2252
+                "y":46
             },
             "sliceSize":{  
                 "x":3846,
@@ -469,7 +301,7 @@
       "layerOrder" : 0,
             "slicePosition":{  
                 "x":40,
-                "y":3667
+                "y":1461
             },
             "sliceSize":{  
                 "x":885,

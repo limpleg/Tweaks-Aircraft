@@ -21,180 +21,12 @@
       },
       "rotation" : 0
     }, 
-        {  
-            "name":"Fuselage1",
-            "layerOrder":4,
-            "slicePosition":{  
-                "x":28,
-                "y":6012
-            },
-            "sliceSize":{  
-                "x":3944,
-                "y":652
-            },
-            "position":{  
-                "x":-11.85,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Fuselage2",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":194,
-                "y":5331
-            },
-            "sliceSize":{  
-                "x":5126,
-                "y":652
-            },
-            "position":{  
-                "x":16.04,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine1RigthInner",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":8,
-                "y":1391
-            },
-            "sliceSize":{  
-                "x":676,
-                "y":357
-            },
-            "position":{  
-                "x":8.33999999,
-                "y":7.372333333,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-{  
-            "name":"Engine1RigthOuter",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":755,
-                "y":1391
-            },
-            "sliceSize":{  
-                "x":676,
-                "y":357
-            },
-            "position":{  
-                "x":3.34,
-                "y":15.583333333,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine2LeftInner",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":2173,
-                "y":1391
-            },
-            "sliceSize":{  
-                "x":676,
-                "y":357
-            },
-            "position":{  
-                "x":8.33999999,
-                "y":-7.372333333,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Engine2LeftOuter",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":2920,
-                "y":1391
-            },
-            "sliceSize":{  
-                "x":676,
-                "y":357
-            },
-            "position":{  
-                "x":3.34,
-                "y":-15.583333333,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Winglet1Rigth",
-            "layerOrder":4,
-            "slicePosition":{  
-                "x":1617,
-                "y":1592
-            },
-            "sliceSize":{  
-                "x":329,
-                "y":165
-            },
-            "position":{  
-                "x":-4.519999966,
-                "y":-23.81266666666666,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Winglet2Left",
-            "layerOrder":4,
-            "slicePosition":{  
-                "x":1617,
-                "y":1414
-            },
-            "sliceSize":{  
-                "x":329,
-                "y":165
-            },
-            "position":{  
-                "x":-4.519999966,
-                "y":23.81266666666666,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-		{
+ 		{
             "name": "TWEAKWing Left",
             "layerOrder": 2,
             "slicePosition": {
                 "x": 43,
-                "y": 1891
+                "y": 31
             },
             "sliceSize": {
                 "x": 2428,
@@ -216,7 +48,7 @@
             "layerOrder": 2,
             "slicePosition": {
                 "x": 43,
-                "y": 1891
+                "y": 31
             },
             "sliceSize": {
                 "x": 2428,
@@ -238,7 +70,7 @@
             "layerOrder":7,
             "slicePosition":{  
                 "x":28,
-                "y":8883
+                "y":5652
             },
             "sliceSize":{  
                 "x":3944,
@@ -256,7 +88,7 @@
             "layerOrder":7,
             "slicePosition":{  
                 "x":194,
-                "y":8202
+                "y":4971
             },
             "sliceSize":{  
                 "x":5126,
@@ -798,7 +630,7 @@
       "layerOrder" : 0,
             "slicePosition":{  
                 "x":3282,
-                "y":2955
+                "y":1095
             },
             "sliceSize":{  
                 "x":1117,

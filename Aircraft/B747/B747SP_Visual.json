@@ -1,0 +1,247 @@
+{
+  "aircraftType" : "B74S",
+  "liveryFileName" : "B747Family.png",
+  "pixelSize" : 145,
+  "liveryComponent" : [
+		{  
+            "name":"config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":7.10344826,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+			{  
+            "name":"config_exactly_LeftWing_RightWing_Flaps_StrobeLightLeft_StrobeLightBack_PortLight_StarbordLight_FuelTruckPaths_DeicingPosition3_DeicingPosition4_Engine1.1_Engine1.2_Engine2.1_Engine2.2_Wing1.1_Wing1.2_Wing2.1_Wing2.2_WheelCarrige_Cone_Cone (1)_APU_GPU_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":4.10344826,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+		{  
+            "name":"config_exactly_StrobeLightBack_LeftTail_RightTail_DeicingPosition1_DeicingPosition2_Back1_Back2_Back3_RightRearDoor_LeftRearDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":9.66896551,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_exactly_ServiceTruckPaths_RearCargoDoor_WasteAccessDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":12.08275863,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+	{  
+            "name":"config_exactly_RightFrontMiddleDoor_LeftFrontMiddleDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-15.33862069793103,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+	{  
+            "name":"config_exactly_CleaningTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-20.33862069793103,
+                "y":-11.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 40,
+				"y" : 23
+			},
+			"sliceSize" : {
+				"x" : 788,
+				"y" : 699
+            },
+            "position":{  
+                "x":4,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_NightWindows (3)_NightWindows (4)_NightWindows (5)_NightWindows (6)_NightWindows (7)_NightWindows (8)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+			{
+      "name": "UpperWindow",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 1171
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "FrontLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 2638
+      },
+      "sliceSize" : {
+        "x" : 3776,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "BackLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 1882
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -11.73,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_BackLights_FrontLights_UpperWindow_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }		
+  ]
+}
