@@ -3,120 +3,6 @@
   "liveryFileName" : "A318.png",
   "pixelSize" : 150,
   "liveryComponent" : [
-	{
-      "name" : "FuselageA318",
-      "layerOrder" : 5,
-      "slicePosition" : {
-        "x" : 0,
-        "y" : 3
-      },
-      "sliceSize" : {
-        "x" : 3956,
-        "y" : 437
-      },
-      "position" : {
-        "x" : -2.29,
-        "y" : 0,
-        "z" : 0
-      },
-      "rotation" : 0
-    },	
-    {
-      "name" : "Engine1",
-      "layerOrder" : 0,
-      "slicePosition" : {
-        "x" : 2,
-        "y" : 460
-      },
-      "sliceSize" : {
-        "x" : 487,
-        "y" : 220
-      },
-      "position" : {
-        "x" : 1.63,
-        "y" : -4.346,
-        "z" : 0
-      },
-      "flip" : {
-        "x" : 0,
-        "y" : 0
-      },
-      "rotation" : 0
-    },
-    {
-      "name" : "Engine2",
-      "layerOrder" : 0,
-      "slicePosition" : {
-        "x" : 502,
-        "y" : 462
-      },
-      "sliceSize" : {
-        "x" : 486,
-        "y" : 220
-      },
-      "position" : {
-        "x" : 1.63,
-        "y" : 4.346,
-        "z" : 0
-      },
-      "flip" : {
-        "x" : 0,
-        "y" : 0
-      },
-      "rotation" : 0
-    },
-       {
-            "name": "Wingbox1",
-            "layerOrder": 4,
-            "slicePosition":
-            {
-                "x": 2836,
-                "y": 638
-            },
-            "sliceSize":
-            {
-                "x": 1096,
-                "y": 135
-            },
-            "position":
-            {
-                "x": 0.5,
-                "y": 1.35,
-                "z": 0
-            },
-            "flip":
-            {
-                "x": 0,
-                "y": 0
-            },
-            "rotation": 0
-        },
-        {
-            "name": "Wingbox2",
-            "layerOrder": 4,
-            "slicePosition":
-            {
-                "x": 2836,
-                "y": 499
-            },
-            "sliceSize":
-            {
-                "x": 1096,
-                "y": 135
-            },
-            "position":
-            {
-                "x": 0.5,
-                "y": -1.35,
-                "z": 0
-            },
-            "flip":
-            {
-                "x": 0,
-                "y": 0
-            },
-            "rotation": 0
-        },
 	{  
             "name":"config_exactly_NightWindows (1)_NightWindows (2)_RightWing_LeftWing_exactly_disable",
       "layerOrder" : 0,
@@ -140,7 +26,7 @@
          "layerOrder":2,
          "slicePosition":{  
             "x":25,
-            "y":1742
+            "y":610
          },
          "sliceSize":{  
             "x":1799,
@@ -162,7 +48,7 @@
          "layerOrder":2,
          "slicePosition":{  
             "x":2002,
-            "y":1742
+            "y":610
          },
          "sliceSize":{  
             "x":1799,
@@ -184,7 +70,7 @@
       "layerOrder" : 0,
             "slicePosition":{  
                 "x":7,
-                "y":3042
+                "y":1918
             },
             "sliceSize":{  
                 "x":751,
@@ -202,7 +88,7 @@
       "layerOrder" : 7,
       "slicePosition" : {
         "x" : 0,
-        "y" : 806
+        "y" : 62
       },
       "sliceSize" : {
         "x" : 3956,
@@ -220,7 +106,7 @@
       "layerOrder" : 7,
       "slicePosition" : {
         "x" : 0,
-        "y" : 806
+        "y" : 62
       },
       "sliceSize" : {
         "x" : 3956,

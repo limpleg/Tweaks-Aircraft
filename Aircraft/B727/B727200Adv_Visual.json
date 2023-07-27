@@ -3,24 +3,6 @@
     "liveryFileName": "727-200.png",
     "pixelSize": 200,
     "liveryComponent": [
-		{
-            "name":"Fuselage200",
-            "layerOrder":2,
-            "slicePosition":{
-                "x":20.0,
-                "y":25.0
-            },
-            "sliceSize":{
-                "x":8212.0,
-                "y":764.0
-            },
-            "position":{
-                "x":0.0,
-                "y":0.0,
-                "z":0.0
-            },
-            "rotation":0.0
-        },
         {
             "name":"Tail200",
             "layerOrder":4,

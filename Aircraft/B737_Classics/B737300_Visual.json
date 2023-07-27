@@ -21,69 +21,7 @@
             },
             "rotation": 0
         },  
-    {
-      "name" : "Fuselage",
-      "layerOrder" : 3,
-      "slicePosition" : {
-        "x" : 0,
-        "y" : 646
-      },
-      "sliceSize" : {
-        "x" : 5493,
-        "y" : 590
-      },
-      "position" : {
-        "x" : -2.43,
-        "y" : 0,
-        "z" : 0
-      },
-      "rotation" : 0
-    },
-    {
-      "name" : "EngineLeft",
-      "layerOrder" : 0,
-      "slicePosition" : {
-        "x" : 9,
-        "y" : 1925
-      },
-      "sliceSize" : {
-        "x" : 603,
-        "y" : 344
-      },
-      "position" : {
-        "x" : 1.1951219512194,
-        "y" : 3.83339256097317,
-        "z" : 0
-      },
-      "flip" : {
-        "x" : 0,
-        "y" : 0
-      },
-      "rotation" : 0
-    },
-    {
-      "name" : "EngineRigth",
-      "layerOrder" : 0,
-      "slicePosition" : {
-        "x" : 660,
-        "y" : 1925
-      },
-      "sliceSize" : {
-        "x" : 603,
-        "y" : 344
-      },
-      "position" : {
-        "x" : 1.1951219512194,
-        "y" : -3.83339256097317,
-        "z" : 0
-      },
-      "flip" : {
-        "x" : 0,
-        "y" : 0
-      },
-      "rotation" : 0
-    },
-			        {  
+		        {  
          "name":"Wing LeftTweak",
          "layerOrder":2,
          "slicePosition":{  

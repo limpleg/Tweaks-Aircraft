@@ -1,0 +1,97 @@
+{
+  "aircraftType" : "A321neo",
+  "liveryFileName" : "A320neoFamily.png",
+  "pixelSize" : 150,
+  "liveryComponent" : [
+		{
+      "name": "LightsBasic",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 80
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsEmergencyWings",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 531
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsEmergencyWingsExtra",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 980
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_LightsBasic_LightsEmergencyWings_LightsEmergencyWingsExtra_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+			{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+                "x":1942,
+                "y":1434
+            },
+            "sliceSize":{  
+                "x":897,
+                "y":744
+            },
+            "position":{  
+                "x":-1,
+                "y":1,
+                "z":0
+            },
+      "rotation" : 0
+    }	
+    ]
+}

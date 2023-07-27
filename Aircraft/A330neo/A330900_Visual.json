@@ -26,7 +26,7 @@
       "layerOrder" : 0,
             "slicePosition":{  
 				"x" : 30,
-				"y" : 6283
+				"y" : 2954
 			},
 			"sliceSize" : {
 				"x" : 957,
@@ -93,7 +93,7 @@
             "layerOrder":2,
             "slicePosition":{
                 "x":14,
-                "y":3677
+                "y":348
             },
             "sliceSize":{
                 "x":3677,
@@ -115,7 +115,7 @@
             "layerOrder":2,
             "slicePosition":{
                 "x":14,
-                "y":3677
+                "y":348
             },
             "sliceSize":{
                 "x":3677,
@@ -263,174 +263,6 @@
                 "y":0
             },
             "rotation":0
-        },		
-         {  
-            "name":"Fuselage1",
-            "layerOrder":4,
-            "slicePosition":{  
-                "x":28,
-                "y":2887
-            },
-            "sliceSize":{  
-                "x":3944,
-                "y":652
-            },
-            "position":{  
-                "x":-11.85,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"Fuselage2",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":194,
-                "y":2206
-            },
-            "sliceSize":{  
-                "x":3846,
-                "y":652
-            },
-            "position":{  
-                "x":11.78,
-                "y":0,
-                "z":0
-            },
-            "rotation":0
-        },
-		{  
-            "name":"WingboxLeft",
-            "layerOrder":3,
-            "slicePosition":{  
-                "x":58,
-                "y":2065
-            },
-            "sliceSize":{  
-                "x":1618,
-                "y":83
-            },
-            "position":{  
-                "x":2.332,
-                "y":2.2256666666,
-                "z":0
-            },
-			"flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-		        {  
-            "name":"WingboxRigth",
-            "layerOrder":3,
-            "slicePosition":{  
-                "x":58,
-                "y":1972
-            },
-            "sliceSize":{  
-                "x":1618,
-                "y":83
-            },
-            "position":{  
-                "x":2.332,
-                "y":-2.1523333,
-                "z":0
-            },
-			"flip":{  
-                "x":0,
-                "y":0
-            },			
-            "rotation":0
-        },		
-        {  
-            "name":"EngineRigth",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":182,
-                "y":1377
-            },
-            "sliceSize":{  
-                "x":712,
-                "y":403
-            },
-            "position":{  
-                "x":5.584,
-                "y":-6.859,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"EngineLeft",
-            "layerOrder":0,
-            "slicePosition":{  
-                "x":1184,
-                "y":1377
-            },
-            "sliceSize":{  
-                "x":712,
-                "y":403
-            },
-            "position":{  
-                "x":5.584,
-                "y":6.859,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"WingletLeft",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":2736,
-                "y":1470
-            },
-            "sliceSize":{  
-                "x":512,
-                "y":412
-            },
-            "position":{  
-                "x":-7.31133333333333333333333,
-                "y":23.01699999999999,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":0
-        },
-        {  
-            "name":"WingletRigth",
-            "layerOrder":5,
-            "slicePosition":{  
-                "x":2193,
-                "y":1470
-            },
-            "sliceSize":{  
-                "x":512,
-                "y":412
-            },
-            "position":{  
-                "x":-7.31133333333333333333333,
-                "y":-23.01699999999999,
-                "z":0
-            },
-            "flip":{  
-                "x":0,
-                "y":0
-            },
-            "rotation":180
-        }		
+        }	
     ]
 }

@@ -1,0 +1,309 @@
+{
+  "aircraftType" : "B748I",
+  "liveryFileName" : "B747Family.png",
+  "pixelSize" : 145,
+  "liveryComponent" : [
+ 	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 2958,
+				"y" : 7
+			},
+			"sliceSize" : {
+				"x" : 832,
+				"y" : 947
+            },
+            "position":{  
+                "x":-1,
+                "y":0,
+                "z":-9999
+            },
+      "rotation" : 0
+    },
+		{
+            "name": "config_exactly_NightWindows (3)_NightWindows (4)_NightWindows (5)_NightWindows (6)_NightWindows (7)_NightWindows (8)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+		{
+      "name": "UpperdeckCargoLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 14365
+      },
+      "sliceSize" : {
+        "x" : 4315,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+			{
+      "name": "UpperdeckLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 12900
+      },
+      "sliceSize" : {
+        "x" : 4315,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },
+			{
+      "name": "FrontLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 53,
+        "y" : 13642
+      },
+      "sliceSize" : {
+        "x" : 4315,
+        "y" : 655
+      },
+      "position" : {
+        "x" : 10.86,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+			{
+      "name": "BackLights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 44,
+        "y" : 12144
+      },
+      "sliceSize" : {
+        "x" : 3899,
+        "y" : 655
+      },
+      "position" : {
+        "x" : -13.59206896551724,
+        "y" : 0,
+        "z" : -9999
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_BackLights_FrontLights_UpperdeckLights_UpperdeckCargoLights_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+			{  
+            "name":"config_exactly_LeftWing_RightWing_Flaps_StrobeLightLeft_StrobeLightRight_PortLight_StarbordLight_FuelTruckPaths_DeicingPosition3_DeicingPosition4_Engine1.1_Engine1.2_Engine2.1_Engine2.2_Wing1.1_Wing1.2_Wing2.1_Wing2.2_WheelCarrige_Cone_Cone (1)_APU_GPU_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.262068965517241,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+			{  
+            "name":"config_exactly_RightRearMiddleDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-11.83448275862069,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+			{  
+            "name":"config_exactly_RightTail_LeftTail_LeftRearMiddleDoor_RightRearDoor_LeftRearDoor_RearCargoDoor_WasteAccessDoor_Back1_Back2_Back3_DeicingPosition1_DeicingPosition2_StrobeLightBack_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.862068965517241,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+		{  
+            "name":"config_exactly_TaxiLight_TurnPosition_TowBarPoint_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":1.820689655172414,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_exactly_RightFrontDoor_LeftFrontDoor_FrontCargoDoor_Front1_Front2_ChristmasHatPosition_BeconLight_NightWindows (9)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":1.86896551724138,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_exactly_LeftFrontMiddleDoor_RightFrontMiddleDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.924137931034482,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+		{  
+            "name":"config_exactly_StairTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-6,
+                "y":1,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_LandingLight_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-2.951723965517241,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }			
+  ]
+}
