@@ -4,11 +4,14 @@ Aircraft Pack For Use With ACEO Tweaks
 
 ### New Types
 
+* B727-100
 * B727-200
     * -200
     * -200 Advanced
     * -200 F
-* B727-100
+* Dornier 328 Family
+    * DO328
+	* DO328Jet
 * Embraer ERJ Family
     * ERJ 135
     * Legacy 600
@@ -96,6 +99,10 @@ Note that you need to change "aircraftType" in liveryData.json
 	* -300P2F
 * A340-300	
 * A380
+* ATR42
+    * -Freighter
+* ATR72
+    * -Freighter	
 * An148
 * B377
 * B707-320
