@@ -3,6 +3,26 @@
   "liveryFileName" : "A320neoFamily.png",
   "pixelSize" : 150,
   "liveryComponent" : [
+
+		{
+            "name": "config_exactly_NightWindows (2)_NightWindows (1)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }, 
+
 		{
       "name": "LightsBasic",
       "layerOrder": 7,

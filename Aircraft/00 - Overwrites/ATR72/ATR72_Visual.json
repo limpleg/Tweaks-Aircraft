@@ -1,0 +1,133 @@
+{  
+   "aircraftType":"ATR72",
+   "liveryFileName":"ATR72.png",
+   "pixelSize":205,
+   "liveryComponent":[  
+      	{
+            "name": "config_exactly_NightWindows (1)_NightWindows (2)_NightWindows (3)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }, 
+	  {  
+         "name":"NightWindow",
+         "layerOrder":9,
+            "slicePosition":{  
+                "x":0,
+                "y":0
+            },
+            "sliceSize":{  
+                "x":4096,
+                "y":525
+            },
+            "position":{  
+                "x":-0.08,
+                "y":0.004,
+                "z":0
+            },
+            "rotation":180
+        },
+	  {  
+         "name":"NightCockpit",
+         "layerOrder":9,
+            "slicePosition":{  
+                "x":0,
+                "y":473
+            },
+            "sliceSize":{  
+                "x":4096,
+                "y":525
+            },
+            "position":{  
+                "x":-0.08,
+                "y":0.004,
+                "z":0
+            },
+            "rotation":180
+        },
+  		{
+            "name": "config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 5,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+		{
+            "name": "config_exactly_RightRearDoor_ServiceTruckPaths_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 11.07560975609755,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+		{
+            "name": "config_exactly_RightFrontDoor_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": -10.987804878048,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },			
+		{
+            "name": "config_exactly_NightWindow_NightCockpit_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }			
+   ]
+}
