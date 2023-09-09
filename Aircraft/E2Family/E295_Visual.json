@@ -26,7 +26,7 @@
       "layerOrder" : 0,
             "slicePosition":{  
 				"x" : 3249,
-				"y" : 3332
+				"y" : 3634
 			},
 			"sliceSize" : {
 				"x" : 1097,
@@ -44,7 +44,7 @@
       "layerOrder": 7,
       "slicePosition" : {
             "x":1,
-            "y":2389
+            "y":2691
          },
          "sliceSize":{
             "x":4094,
@@ -93,7 +93,7 @@
       "layerOrder" : 1,
       "slicePosition" : {
         "x" : 1679,
-        "y" : 3277
+        "y" : 3579
       },
       "sliceSize" : {
         "x" : 1105,
