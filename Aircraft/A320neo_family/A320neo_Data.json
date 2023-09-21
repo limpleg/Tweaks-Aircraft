@@ -4,6 +4,7 @@
     "numEngines": 2,
     "wingSpan_M": 35.8,
     "length_M": 37.57,
+	"forcedReScale" : 0.9841,		
     "size": 3,
     "threeStepSize": 1,
     "displayName": ["A320neo"],

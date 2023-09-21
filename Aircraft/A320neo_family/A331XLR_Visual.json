@@ -26,7 +26,7 @@
       "layerOrder": 7,
       "slicePosition" : {
         "x" : 0,
-        "y" : 80
+        "y" : 52
       },
       "sliceSize" : {
         "x" : 4753,
@@ -44,7 +44,7 @@
       "layerOrder": 7,
       "slicePosition" : {
         "x" : 0,
-        "y" : 531
+        "y" : 503
       },
       "sliceSize" : {
         "x" : 4753,
@@ -62,7 +62,7 @@
       "layerOrder": 7,
       "slicePosition" : {
         "x" : 0,
-        "y" : 980
+        "y" : 952
       },
       "sliceSize" : {
         "x" : 4753,
@@ -106,9 +106,14 @@
             },
             "position":{  
                 "x":-1,
-                "y":1,
+                "y":0.4,
                 "z":0
             },
+						"scale":{
+			    "x":0.9,
+                "y":1,
+                "z":1.0
+			},
       "rotation" : 0
     }	
     ]

@@ -8,7 +8,7 @@ Aircraft Pack For Use With ACEO Tweaks
 * B727-200
     * -200
     * -200 Advanced
-    * -200 F
+    * -200F
 * Dornier 328 Family
     * DO328
 	* DO328Jet
@@ -94,6 +94,9 @@ Aircraft Pack For Use With ACEO Tweaks
 Note that you need to change "aircraftType" in liveryData.json
 
 * 1900D
+* A32X Family
+	* A320P2F
+	* A321P2F
 * A330-200
     * -200F
 	* -300P2F
@@ -135,6 +138,7 @@ Note that you need to change "aircraftType" in liveryData.json
 * B777-300
     * -300
     * -300ER
+	* -300ERSF
 * Baron 58
 * Cessna 182
 * Cessna 208
