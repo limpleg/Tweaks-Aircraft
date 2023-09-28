@@ -115,15 +115,15 @@
             "layerOrder":1,
             "slicePosition":{  
                 "x":2393,
-                "y":1995
+                "y":2017
             },
             "sliceSize":{  
-                "x":978,
-                "y":823
+                "x":1032,
+                "y":825
             },
             "position":{  
-                "x":-13.353352975,
-                "y":-2.429268292682853,
+                "x":-13.187499316463326,
+                "y":-2.560975609755975609,
                 "z":0
             },
             "flip":{  
@@ -137,15 +137,15 @@
             "layerOrder":1,
             "slicePosition":{  
                 "x":2393,
-                "y":1995
+                "y":2017
             },
             "sliceSize":{  
-                "x":978,
-                "y":823
+                "x":1032,
+                "y":825
             },
             "position":{  
-                "x":-13.353352975,
-                "y":2.429268292682853,
+                "x":-13.187499316463326,
+                "y":2.590243902438902439,
                 "z":0
             },
             "flip":{  
@@ -153,7 +153,7 @@
                 "y":0
             },
             "rotation":270
-        },		
+        },			
 				{  
             "name":"config_exactly_TowBarPoint_ChristmasHatPosition_Front1_Front2_exactly_moverel",
             "layerOrder":1,
