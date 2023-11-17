@@ -6,9 +6,9 @@
     "numEngines": 2,
     "wingSpan_M": 20.98,
     "length_M": 21.28,
-	"forcedReScale" : 1.0022,	
+	"forcedReScale" : 1.0416,	
     "size": 6,
-    "threeStepSize": 1,
+    "threeStepSize": 0,
     "displayName": [
 	"DO328"
 	],
@@ -36,7 +36,7 @@
     "range_KM": [1852],
     "speed_KMH": [620],
     "etops_Minutes": [60],
-    "fuelCapacity_L": [4290],
+    "fuelCapacity_L": [2992],
     "engineType": ["turboprop"],
     "takeoffDistance_M": [1090],
     "maxTOW_KG": [13990],

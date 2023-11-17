@@ -10,7 +10,7 @@
 	"size": 7,
 	"threeStepSize": 0,
 	"displayName": [
-		"SF50 Visionjet"
+		"Cirrus SF50 Visionjet"
 	],
 	"iCAOCode": [
 		"SF50"
@@ -58,7 +58,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		1128.4
+		1127
 	],
 	"engineType": [
 		"turbojet"

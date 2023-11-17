@@ -8,6 +8,7 @@
     "length_M": 29.87,
     "size": 6,
     "threeStepSize": 1,
+	"forcedReScale" : 0.9886,
     "displayName": [
 	"ERJ-145XR"
 	],
@@ -35,7 +36,7 @@
 	],
     "etops_Minutes": [60],
     "fuelCapacity_L": [
-	5973
+	5188
 	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [

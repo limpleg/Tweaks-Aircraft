@@ -1,6 +1,7 @@
 {
 	"id": [
-		"SAAB340"
+		"SAAB340",
+		"SAAB340F"
 	],
 	"copyFrom": "SAAB340",
 	"numEngines": 2,
@@ -10,7 +11,8 @@
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
-		"SAAB340"
+		"SAAB340",
+		"SAAB340F"
 	],
 	"iCAOCode": [
 		"SF34"
@@ -19,7 +21,8 @@
 		"SAAB"
 	],
 	"numBuilt": [
-		460
+		460,
+		82
 	],
 	"yearIntroduced": [
 		1983
@@ -31,13 +34,16 @@
 		2032
 	],
 	"capacity_PAX": [
-		34
+		33,
+		0
 	],
 	"exitLimit_PAX": [
-		34
+		36,
+		0
 	],
 	"seatsAbreast": [
-		3
+		3,
+		0
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,10 +52,12 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		800
+		800,
+		3700
 	],
 	"range_KM": [
-		870
+		1730,
+		2200
 	],
 	"speed_KMH": [
 		524
@@ -58,7 +66,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		3199.2
+		3207
 	],
 	"engineType": [
 		"turboprop"
@@ -106,7 +114,8 @@
 		false
 	],
 	"cargo": [
-		false
+		false,
+		true
 	],
 	"loud": [
 		false

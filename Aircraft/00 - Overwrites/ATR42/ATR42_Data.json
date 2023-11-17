@@ -36,7 +36,7 @@
     "range_KM": [1550],
     "speed_KMH": [484],
     "etops_Minutes": [60],
-    "fuelCapacity_L": [4500],
+    "fuelCapacity_L": [3909],
     "engineType": ["turboprop"],
     "takeoffDistance_M": [450],
     "maxTOW_KG": [18200],

@@ -8,7 +8,7 @@
 	"length_M": 29.13,
 	"forcedReScale" : 0.9016,
 	"size": 6,
-	"threeStepSize": 1,
+	"threeStepSize": 0,
 	"displayName": [
 		"An-148"
 	],
@@ -58,7 +58,7 @@
 		90
 	],
 	"fuelCapacity_L": [
-		14942
+		10471
 	],
 	"engineType": [
 		"turbofan"

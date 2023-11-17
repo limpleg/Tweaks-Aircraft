@@ -9,6 +9,7 @@
     "length_M": 26.33,
     "size": 6,
     "threeStepSize": 1,
+	"forcedReScale" : 0.9884,
     "displayName": [
 	"ERJ-135",
 	"Legacy 600"
@@ -47,8 +48,8 @@
 	],
     "etops_Minutes": [60],
     "fuelCapacity_L": [
-	4117,
-	9344
+	4461,
+	7159
 	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [

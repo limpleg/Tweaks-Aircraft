@@ -58,9 +58,9 @@
 	180
 	],
     "fuelCapacity_L": [
-	29580,
-	32940,
-	39549
+	16384,
+	22915,
+	34090
 	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [2210],

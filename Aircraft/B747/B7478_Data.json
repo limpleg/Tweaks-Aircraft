@@ -8,7 +8,7 @@
     "numEngines": 4,
     "wingSpan_M": 68.4,
     "length_M": 76.25,
-	"forcedReScale" : 1.107,
+	"forcedReScale" : 1.1132,
     "size": 0,
     "threeStepSize": 2,
     "displayName": [
@@ -58,7 +58,10 @@
 	],
     "speed_KMH": [920],
     "etops_Minutes": [360],
-    "fuelCapacity_L": [242470],
+    "fuelCapacity_L": [
+	111741,
+	105892
+	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [
 	3260,

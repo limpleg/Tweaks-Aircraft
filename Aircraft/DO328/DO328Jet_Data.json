@@ -6,9 +6,9 @@
     "numEngines": 2,
     "wingSpan_M": 20.98,
     "length_M": 21.28,
-	"forcedReScale" : 1.0022,	
+	"forcedReScale" : 1.0416,	
     "size": 6,
-    "threeStepSize": 1,
+    "threeStepSize": 0,
     "displayName": [
 	"DO328Jet"
 	],
@@ -36,7 +36,7 @@
     "range_KM": [2740],
     "speed_KMH": [750],
     "etops_Minutes": [60],
-    "fuelCapacity_L": [8040],
+    "fuelCapacity_L": [3326],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [1380],
     "maxTOW_KG": [15660],

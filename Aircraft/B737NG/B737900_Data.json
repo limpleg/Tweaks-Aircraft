@@ -7,7 +7,7 @@
 	"numEngines": 2,
 	"wingSpan_M": 35.92,
 	"length_M": 42.16,
-	"forcedReScale" : 1.0,
+	"forcedReScale" : 1.0885,
 	"size": 2,
 	"threeStepSize": 1,
 	"displayName": [
@@ -67,8 +67,8 @@
 		120
 	],
 	"fuelCapacity_L": [
-		25940,
-		26035
+		18150,
+		20692
 	],
 	"engineType": [
 		"turbofan"

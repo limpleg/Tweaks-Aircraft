@@ -10,7 +10,7 @@
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
-		"208 Caravan"
+		"Cessna 208 Caravan"
 	],
 	"iCAOCode": [
 		"C208"
@@ -58,7 +58,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		1257
+		1254
 	],
 	"engineType": [
 		"turboprop"

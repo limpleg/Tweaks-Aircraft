@@ -10,7 +10,7 @@
 	"size": 4,
 	"threeStepSize": 1,
 	"displayName": [
-		"737-600"
+		"B737-600"
 	],
 	"iCAOCode": [
 		"B736"
@@ -58,7 +58,7 @@
 		120
 	],
 	"fuelCapacity_L": [
-		26020
+		18150
 	],
 	"engineType": [
 		"turbofan"

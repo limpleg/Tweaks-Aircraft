@@ -18,6 +18,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 140
     * ERJ 145
     * ERJ 145XR
+* Pilatus PC6	
 
 ### New Variants
 
@@ -88,19 +89,26 @@ Aircraft Pack For Use With ACEO Tweaks
     * Q100
     * Q200
 
-### Updates/Additions Without Visual Changes
+### Updates/Additions With no or just small Visual Changes
 
 *If you are mod author and want to see something here please do let me know; the non-visual variants are pretty quick*
-Note that you need to change "aircraftType" in liveryData.json
+Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding Group for specific visual changes or json files.
 
 * 1900D
+* A220 Family
+	* -100
+	* -300	
 * A32X Family
 	* A320P2F
 	* A321P2F
 * A330-200
     * -200F
 	* -300P2F
-* A340-300	
+* A340-300
+* A350 Familöy
+    * -900
+    * -900ULR
+    * -1000	
 * A380
 * ATR42
     * -Freighter
@@ -139,6 +147,11 @@ Note that you need to change "aircraftType" in liveryData.json
     * -300
     * -300ER
 	* -300ERSF
+* B787 Family
+    * -8
+    * -9
+	* -10
+* BAE146
 * Baron 58
 * Cessna 182
 * Cessna 208
@@ -155,6 +168,14 @@ Note that you need to change "aircraftType" in liveryData.json
     * -cargo
     * Li 2
 * DHC6
+* Embraer E-Jet Family
+    * E170
+    * E175
+    * E190
+    * E195
+* Fokker 70/100
+    * 70
+    * 100	
 * Ford Trimotor
 * L1049
 * LJ75
@@ -171,8 +192,13 @@ Note that you need to change "aircraftType" in liveryData.json
 * Piper Cub
 * PC12
 * PC24
+* Dash Q Family
+     * Q300
+     * Q400
 * SAAB340
+    * -Freighter		 
 * SF50
+* Tu104
 * Tu114
 * Tu144
 * Tu154

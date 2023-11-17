@@ -8,6 +8,7 @@
 	"length_M": 36.2,
 	"size": 3,
 	"threeStepSize": 1,
+	"forcedReScale" : 1.0532,
 	"displayName": [
 		"CRJ 900",
 		"CRJ 705"
@@ -63,7 +64,7 @@
 		120
 	],
 	"fuelCapacity_L": [
-		8888
+		7722
 	],
 	"engineType": [
 		"turbofan"
