@@ -78,7 +78,43 @@
       "rotation" : 0
     },
 		{
-            "name": "config_exactly_LightsBasic_LightsEmergencyWings_LightsEmergencyWingsExtra_exactly_makewindow",
+      "name": "LightsNewDoorPos",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 2252
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsNewDoorPosNo3Window",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 2782
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_LightsBasic_LightsEmergencyWings_LightsEmergencyWingsExtra_LightsNewDoorPos_LightsNewDoorPosNo3Window_exactly_makewindow",
             "layerOrder": 0,
             "slicePosition": {
                 "x": 1,

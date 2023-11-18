@@ -8,6 +8,7 @@
     "length_M": 28.45,
     "size": 6,
     "threeStepSize": 1,
+	"forcedReScale" : 0.9883,
     "displayName": [
 	"ERJ-140"
 	],
@@ -33,7 +34,7 @@
 	],
     "etops_Minutes": [60],
     "fuelCapacity_L": [
-	4499
+	4461
 	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [

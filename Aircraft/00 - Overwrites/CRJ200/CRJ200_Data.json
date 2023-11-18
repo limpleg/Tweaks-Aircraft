@@ -9,7 +9,9 @@
 	"size": 6,
 	"threeStepSize": 1,
 	"displayName": [
-		"CRJ 200","CRJ 100","CRJ 440"
+		"CRJ 200",
+		"CRJ 100",
+		"CRJ 440"
 	],
 	"iCAOCode": [
 		"CRJ2","CRJ1","CRJ2"
@@ -57,7 +59,9 @@
 		60
 	],
 	"fuelCapacity_L": [
-		8081
+		5531,
+		5531,
+		5531
 	],
 	"engineType": [
 		"turbofan"

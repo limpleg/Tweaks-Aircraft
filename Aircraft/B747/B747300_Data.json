@@ -68,7 +68,11 @@
 	],
     "speed_KMH": [910],
     "etops_Minutes": [360],
-    "fuelCapacity_L": [198390],
+    "fuelCapacity_L": [
+	85863,
+	92897,
+	85207
+	],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [3185],
     "maxTOW_KG": [

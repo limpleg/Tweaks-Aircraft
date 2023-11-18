@@ -1,0 +1,156 @@
+{
+  "aircraftType" : "A321XLR",
+  "liveryFileName" : "A320neoFamily.png",
+  "pixelSize" : 150,
+  "liveryComponent" : [
+		{
+            "name": "config_exactly_NightWindows (2)_NightWindows (1)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }, 
+		{
+      "name": "LightsBasic",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 52
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsEmergencyWings",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 503
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsEmergencyWingsExtra",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 952
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsNewDoorPos",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 2252
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		{
+      "name": "LightsNewDoorPosNo3Window",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 2782
+      },
+      "sliceSize" : {
+        "x" : 4753,
+        "y" : 432
+      },
+      "position" : {
+        "x" : -1.41,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+		{
+            "name": "config_exactly_LightsBasic_LightsEmergencyWings_LightsEmergencyWingsExtra_LightsNewDoorPos_LightsNewDoorPosNo3Window_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+			{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+                "x":1942,
+                "y":1434
+            },
+            "sliceSize":{  
+                "x":897,
+                "y":744
+            },
+            "position":{  
+                "x":-1,
+                "y":0.4,
+                "z":0
+            },
+						"scale":{
+			    "x":0.9,
+                "y":1,
+                "z":1.0
+			},
+      "rotation" : 0
+    }	
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": [
+	"A350900",
+	"A350900ULR"
+	],
+    "copyFrom": "A350900",
+    "numEngines": 2,
+    "wingSpan_M": 64.75,
+    "length_M": 66.8,
+	"forcedReScale" : 1.0204,	
+    "size": 0,
+    "threeStepSize": 2,
+    "displayName": [
+	"A350-900",
+	"A350-900ULR"
+	],
+    "iCAOCode": ["A359"],
+    "manufacturer": ["Airbus"],
+    "numBuilt": [
+	742,
+	7
+	],
+    "yearIntroduced": [
+	2014,
+	2018
+	],
+    "yearLastProduced": [2035],
+    "yearRetired": [2050],
+    "capacity_PAX": [
+	315,
+	250
+	],
+    "exitLimit_PAX": [
+	440,
+	440
+	],
+    "seatsAbreast": [9],
+    "capacityULDLowerDeck": [6],
+    "capacityULDUpperDeck": [0],
+    "capacityBulkCargo_KG": [33000],
+    "range_KM": [
+	15000,
+	17960
+	],
+    "speed_KMH": [903],
+    "etops_Minutes": [370],
+    "fuelCapacity_L": [
+	65937,
+	77270
+	],
+    "engineType": ["high_turbofan"],
+    "takeoffDistance_M": [2600],
+    "maxTOW_KG": [
+	283000,
+	288000
+	],
+    "needStairs": [true],
+    "needPushback": [true],
+    "needPaved": [true],
+    "needHeavyPaved": [true],
+    "canGetPushback": [true],
+    "jetbridgePoints": [2],
+    "conveyerPoints": [2],
+    "cleaningPoints": [1],
+    "cateringPoints": [1],
+    "sonicBoom": [false],
+    "vIP": [false],
+    "combi": [false],
+    "cargo": [false],
+    "loud": [false],
+    "quiet": [false]
+}

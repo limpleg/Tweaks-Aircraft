@@ -9,6 +9,7 @@
 	"length_M": 22.25,
 	"size": 5,
 	"threeStepSize": 1,
+	"forcedReScale" : 0.9909,
 	"displayName": [
 		"Q100",
 		"Q200"
@@ -67,7 +68,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		3160
+		2204
 	],
 	"engineType": [
 		"turboprop"

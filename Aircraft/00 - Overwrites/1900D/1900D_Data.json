@@ -6,7 +6,7 @@
 	"numEngines": 2,
 	"wingSpan_M": 17.64,
 	"length_M": 17.62,
-	"forcedReScale" : 1.2554,
+	"forcedReScale" : 0.8727,
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
@@ -58,7 +58,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		2507.28
+		2513
 	],
 	"engineType": [
 		"turboprop"

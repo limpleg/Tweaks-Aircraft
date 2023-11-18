@@ -10,7 +10,7 @@
 	"size": 7,
 	"threeStepSize": 0,
 	"displayName": [
-		"182 Skylane"
+		"Cessna 182 Skylane"
 	],
 	"iCAOCode": [
 		"C82S"
@@ -58,7 +58,7 @@
 		60
 	],
 	"fuelCapacity_L": [
-		348
+		328
 	],
 	"engineType": [
 		"piston"

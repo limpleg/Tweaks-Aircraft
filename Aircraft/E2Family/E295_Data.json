@@ -8,6 +8,7 @@
 	"length_M": 41.51,
 	"size": 3,
 	"threeStepSize": 1,
+	"forcedReScale" : 1.0606,	
 	"displayName": [
 		"E195-E2"
 	],
@@ -57,7 +58,7 @@
 		120
 	],
 	"fuelCapacity_L": [
-		17060
+		11891
 	],
 	"engineType": [
 		"turbofan"
