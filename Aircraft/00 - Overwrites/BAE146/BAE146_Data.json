@@ -34,7 +34,7 @@
     "needPaved": [false],
     "needHeavyPaved": [false],
     "canGetPushback": [true],
-    "jetbridgePoints": [0],
+    "jetbridgePoints": [2],
     "conveyerPoints": [2],
     "cleaningPoints": [1],
     "cateringPoints": [1],
