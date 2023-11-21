@@ -32,8 +32,7 @@
 	0
 	],
     "seatsAbreast": [
-	6,
-	0
+	6
 	],
     "capacityULDLowerDeck": [0],
     "capacityULDUpperDeck": [
@@ -56,7 +55,7 @@
     "needPaved": [true],
     "needHeavyPaved": [false],
     "canGetPushback": [true],
-    "jetbridgePoints": [1],
+    "jetbridgePoints": [2],
     "conveyerPoints": [2],
     "cleaningPoints": [1],
     "cateringPoints": [1],

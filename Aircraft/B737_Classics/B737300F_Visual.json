@@ -612,7 +612,25 @@
                 "z":0
             },
       "rotation" : 0
-    },			
+    },
+		{
+      "name": "300Lights",
+      "layerOrder": 7,
+      "slicePosition" : {
+        "x" : 0,
+        "y" : 4703
+      },
+      "sliceSize" : {
+        "x" : 5493,
+        "y" : 590
+      },
+      "position" : {
+        "x" : -2.43,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
 		{
       "name": "NavigationWindowsLights",
       "layerOrder": 7,
@@ -632,7 +650,7 @@
       "rotation" : 0
     },	
 		{
-            "name": "config_exactly_NavigationWindowsLights_exactly_makewindow",
+            "name": "config_exactly_300Lights_NavigationWindowsLights_exactly_makewindow",
             "layerOrder": 0,
             "slicePosition": {
                 "x": 1,
