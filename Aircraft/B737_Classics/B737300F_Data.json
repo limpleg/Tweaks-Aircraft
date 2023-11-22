@@ -37,7 +37,7 @@
 		0
 	],
 	"seatsAbreast": [
-		0
+		6
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -85,7 +85,7 @@
 		true
 	],
 	"jetbridgePoints": [
-		1
+		2
 	],
 	"conveyerPoints": [
 		1
