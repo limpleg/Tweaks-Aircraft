@@ -78,6 +78,8 @@ Aircraft Pack For Use With ACEO Tweaks
     * 604
     * 605 
     * 650
+* Cessna 208B Grand Caravan
+	* Super Cargomaster
 * CRJ Family
     * CRJ 900
     * CRJ 705 (its a 900 variant)
@@ -155,6 +157,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Baron 58
 * Cessna 182
 * Cessna 208
+	* Cargomaster
 * Comet4
 * Concorde
 * CRJ 200
