@@ -164,6 +164,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * CRJ 100
     * CRJ 200
     * CRJ 440
+	* Challenger 850
 * CRJ 700
 * DC 3
     * DC 3

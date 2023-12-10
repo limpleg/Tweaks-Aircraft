@@ -8,6 +8,7 @@
 	"length_M": 32.3,
 	"size": 5,
 	"threeStepSize": 1,
+	"forcedReScale" : 0.9657,	
 	"displayName": [
 		"CRJ 700"
 	],
