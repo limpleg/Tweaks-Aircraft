@@ -176,7 +176,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * E170
     * E175
     * E190
+		* 190F
     * E195
+		* 195F
 * Fokker 70/100
     * 70
     * 100	
