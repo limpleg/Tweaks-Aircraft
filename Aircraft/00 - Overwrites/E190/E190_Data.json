@@ -1,5 +1,8 @@
 {
-    "id": ["E190"],
+    "id": [
+	"E190",
+	"E190F"
+	],
     "copyFrom": "E190",
     "numEngines": 2,
     "wingSpan_M": 28.73,
@@ -7,25 +10,29 @@
     "size": 5,
 	"forcedReScale" : 1.0167,		
     "threeStepSize": 1,
-    "displayName": ["E190"],
+    "displayName": [
+	"E190",
+	"E190F"
+	
+	],
     "iCAOCode": ["E190"],
     "manufacturer": ["Embraer"],
-    "numBuilt": [650],
-    "yearIntroduced": [2002],
-    "yearLastProduced": [2025],
-    "yearRetired": [2040],
-    "capacity_PAX": [96],
-    "exitLimit_PAX": [114],
+    "numBuilt": [568,10],
+    "yearIntroduced": [2002,2022],
+    "yearLastProduced": [2025,2035],
+    "yearRetired": [2040,2045],
+    "capacity_PAX": [96,0],
+    "exitLimit_PAX": [114,0],
     "seatsAbreast": [4],
     "capacityULDLowerDeck": [0],
     "capacityULDUpperDeck": [0],
-    "capacityBulkCargo_KG": [3453.33333333333],
-    "range_KM": [4260],
+    "capacityBulkCargo_KG": [3453,10700],
+    "range_KM": [4537],
     "speed_KMH": [829],
     "etops_Minutes": [90],
     "fuelCapacity_L": [11267],
     "engineType": ["turbofan"],
-    "takeoffDistance_M": [1524],
+    "takeoffDistance_M": [2100],
     "maxTOW_KG": [51800],
     "needStairs": [true],
     "needPushback": [true],
@@ -39,7 +46,7 @@
     "sonicBoom": [false],
     "vIP": [false],
     "combi": [false],
-    "cargo": [false],
+    "cargo": [false,true],
     "loud": [false],
     "quiet": [true]
 }
