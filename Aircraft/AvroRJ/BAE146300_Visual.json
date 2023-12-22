@@ -1,0 +1,241 @@
+{  
+    "aircraftType":"BAE146300",
+    "liveryFileName":"AvroRJ.png",
+    "pixelSize":175,
+    "liveryComponent":[  
+	{
+            "name": "config_exactly_Window1_Window1 (1)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_RightWing_LeftWing_Flaps_LandingLight_LandingLight (1)_Wing1.1_Wing1.2_Wing2.1_Wing2.2_Engine1.1_Engine1.2_Engine2.1_Engine2.2_Cone_Cone (1)_APU_GPU_FuelTruckPosition_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0.21714285714285714,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_Window1 (2)_Front1_Front2_TaxiLight_TowBarPoint_ChristmasHatPosition_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0.9028571428571428542,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },		
+{
+            "name": "config_exactly_BeconLight_StarbordLight_PortLight_StrobeLightRight_StrobeLightLeft_Back1_Back2_Back3_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0.0742857142857142828,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },		
+{
+            "name": "config_exactly_TailTop_StrobeLightBack_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": -0.474285714285714285714,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_RightFrontDoor_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0.87428571428571428571,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_LeftFrontDoor_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 1.55428571428571,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_RearCargoDoor_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_LeftRearDoor_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": -2.22857142857142857141,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+ {  
+            "name":"NewWindows",
+            "layerOrder":7,
+            "slicePosition":{  
+                "x":1,
+                "y":5
+            },
+            "sliceSize":{  
+                "x":4143,
+                "y":462
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":0
+            },
+            "rotation":0
+        },
+		{
+            "name": "config_exactly_NewWindows_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+	{  
+      "name":"myshadowAvroRJ_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 155,
+				"y" : 1283
+			},
+			"sliceSize" : {
+				"x" : 836,
+				"y" : 1082
+            },
+            "position":{  
+                "x":-0.35,
+                "y":0,
+                "z":0
+            },
+      "rotation" : 0
+    }			
+    ]
+}

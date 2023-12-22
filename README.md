@@ -72,7 +72,13 @@ Aircraft Pack For Use With ACEO Tweaks
     * -8i
     * -8f
 * B767 Family
-    * -400	
+    * -400
+* BAE146 Family
+	* -100
+	* -Avro RJ70
+	* -300
+	* -300QT
+	* -Avro RJ100
 * Challenger 600 Series
     * 601
     * 604
@@ -153,7 +159,10 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * -8
     * -9
 	* -10
-* BAE146
+* BAE146-200
+	* -200QC
+	* -200QT
+	* Avro RJ85
 * Baron 58
 * Cessna 182
 * Cessna 208
