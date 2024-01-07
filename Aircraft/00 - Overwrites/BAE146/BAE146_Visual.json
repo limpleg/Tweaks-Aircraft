@@ -1,0 +1,97 @@
+{  
+    "aircraftType":"RJ85",
+    "liveryFileName":"BAE146200.png",
+    "pixelSize":175,
+    "liveryComponent":[  
+	{
+            "name": "config_exactly_Window1_Window1 (1)_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+ {  
+            "name":"NewWindows",
+            "layerOrder":7,
+            "slicePosition":{  
+                "x":1,
+                "y":5
+            },
+            "sliceSize":{  
+                "x":3826,
+                "y":462
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":0
+            },
+            "rotation":0
+        },
+ {  
+            "name":"NewWindowsQC",
+            "layerOrder":7,
+            "slicePosition":{  
+                "x":1,
+                "y":590
+            },
+            "sliceSize":{  
+                "x":3826,
+                "y":462
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":0
+            },
+            "rotation":0
+        },		
+		{
+            "name": "config_exactly_NewWindows_NewWindowsQC_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+{
+            "name": "config_exactly_BeconLight_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": -0.1485714285714285656,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        }			
+    ]
+}

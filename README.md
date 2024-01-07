@@ -72,12 +72,20 @@ Aircraft Pack For Use With ACEO Tweaks
     * -8i
     * -8f
 * B767 Family
-    * -400	
+    * -400
+* BAE146 Family
+	* -100
+	* -Avro RJ70
+	* -300
+	* -300QT
+	* -Avro RJ100
 * Challenger 600 Series
     * 601
     * 604
     * 605 
     * 650
+* Cessna 208B Grand Caravan
+	* Super Cargomaster
 * CRJ Family
     * CRJ 900
     * CRJ 705 (its a 900 variant)
@@ -151,16 +159,21 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * -8
     * -9
 	* -10
-* BAE146
+* BAE146-200
+	* -200QC
+	* -200QT
+	* Avro RJ85
 * Baron 58
 * Cessna 182
 * Cessna 208
+	* Cargomaster
 * Comet4
 * Concorde
 * CRJ 200
     * CRJ 100
     * CRJ 200
     * CRJ 440
+	* Challenger 850
 * CRJ 700
 * DC 3
     * DC 3
@@ -172,7 +185,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * E170
     * E175
     * E190
+		* 190F
     * E195
+		* 195F
 * Fokker 70/100
     * 70
     * 100	

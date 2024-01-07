@@ -1,0 +1,66 @@
+{  
+    "aircraftType":"CESSNA208B",
+	"liveryFileName":"CESSNA208B.png",
+    "pixelSize":250,
+    "liveryComponent":[  
+	{  
+            "name":"config_exactly_RightWing_LeftWing_NightWindows_Prop_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.572,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+            "name":"config_exactly_Cone_Cone (1)_ChristmasHatPosition_PaxDoorSprite_CargoDoorSprite_Engine1.1_Engine1.2_WheelCarrige_Wing1.1_Wing1.2_Wing2.1_Wing2.2_Front1_FuelTruckPaths_DeicingPosition1_Flaps_StrobeLightLeft_StrobeLightRight_PortLight_StarbordLight_TaxiLight_LandingLight_LandingLight (1)_TurnPosition_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.572,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+	{  
+      "name":"myshadowProps_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 4,
+				"y" : 26
+			},
+			"sliceSize" : {
+				"x" : 1068,
+				"y" : 1199
+            },
+            "position":{  
+                "x":0.001,
+                "y":0.001,
+                "z":0
+            },
+			"scale":{
+			    "x":1,
+                "y":1,
+                "z":1.0
+			},
+      "rotation" : 0
+    } 	  
+    ]
+}

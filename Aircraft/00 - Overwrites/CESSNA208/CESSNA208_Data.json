@@ -1,6 +1,7 @@
 {
 	"id": [
-		"CESSNA208"
+		"CESSNA208",
+		"CESSNA208CARGOMASTER"
 	],
 	"copyFrom": "CESSNA208",
 	"numEngines": 1,
@@ -10,7 +11,8 @@
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
-		"Cessna 208 Caravan"
+		"Cessna 208 Caravan",
+		"Cessna 208 Cargomaster"
 	],
 	"iCAOCode": [
 		"C208"
@@ -19,7 +21,8 @@
 		"Cessna"
 	],
 	"numBuilt": [
-		2600
+		2600,
+		40
 	],
 	"yearIntroduced": [
 		1982
@@ -37,7 +40,7 @@
 		13
 	],
 	"seatsAbreast": [
-		3
+		2
 	],
 	"capacityULDLowerDeck": [
 		0
@@ -46,7 +49,8 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		450
+		450,
+		1360
 	],
 	"range_KM": [
 		1982
@@ -67,7 +71,7 @@
 		450
 	],
 	"maxTOW_KG": [
-		3629
+		3310
 	],
 	"needStairs": [
 		false
@@ -106,7 +110,8 @@
 		false
 	],
 	"cargo": [
-		false
+		false,
+		true
 	],
 	"loud": [
 		false
