@@ -1,6 +1,6 @@
 {
 	"id": [
-		"1900D"
+		"1900D","1900DF","1900C","1900CF"
 	],
 	"copyFrom": "1900D",
 	"numEngines": 2,
@@ -10,7 +10,7 @@
 	"size": 6,
 	"threeStepSize": 0,
 	"displayName": [
-		"1900D"
+		"1900D","1900D Super Freighter","1900C","1900C Cargo"
 	],
 	"iCAOCode": [
 		"B190"
@@ -19,22 +19,22 @@
 		"Beechcraft"
 	],
 	"numBuilt": [
-		695
+		174,50,439,80
 	],
 	"yearIntroduced": [
-		1991
+		1991,1993,1982,1988
 	],
 	"yearLastProduced": [
-		2002
+		2002,2002,2020,2020
 	],
 	"yearRetired": [
-		2030
+		2030,2030,2030,2030
 	],
 	"capacity_PAX": [
-		19
+		19,0,19,0
 	],
 	"exitLimit_PAX": [
-		19
+		19,0,19,0
 	],
 	"seatsAbreast": [
 		2
@@ -46,28 +46,28 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		800
+		800,2883,800,2630
 	],
 	"range_KM": [
-		707
+		2368,2368,1926,1926
 	],
 	"speed_KMH": [
-		518
+		481,481,466,466
 	],
 	"etops_Minutes": [
 		60
 	],
 	"fuelCapacity_L": [
-		2513
+		2513,2513,2527,2527
 	],
 	"engineType": [
 		"turboprop"
 	],
 	"takeoffDistance_M": [
-		1035
+		1057,1057,814,814
 	],
 	"maxTOW_KG": [
-		7764
+		7764,7764,7529,7529
 	],
 	"needStairs": [
 		false
@@ -91,7 +91,7 @@
 		0
 	],
 	"cleaningPoints": [
-		0
+		1
 	],
 	"cateringPoints": [
 		0
@@ -106,7 +106,7 @@
 		false
 	],
 	"cargo": [
-		false
+		false,true,false,true
 	],
 	"loud": [
 		false

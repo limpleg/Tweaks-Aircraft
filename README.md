@@ -103,6 +103,9 @@ Aircraft Pack For Use With ACEO Tweaks
 Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding Group for specific visual changes or json files.
 
 * 1900D
+	* 1900C
+	* 1900C Cargo
+	* 1900D Super Freighter
 * A220 Family
 	* -100
 	* -300	
@@ -171,7 +174,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Concorde
 * CRJ 200
     * CRJ 100
+	* CRJ 100PF
     * CRJ 200
+	* CRJ 200SF
     * CRJ 440
 	* Challenger 850
 * CRJ 700

@@ -1,6 +1,6 @@
 {
     "id": ["E175"],
-    "copyFrom": "E170",
+    "copyFrom": "E175",
     "numEngines": 2,
     "wingSpan_M": 26.01,
     "length_M": 31.68,
