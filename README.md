@@ -9,6 +9,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200 Advanced
     * -200F
+* Comac C919	
 * Dornier 328 Family
     * DO328
 	* DO328Jet
