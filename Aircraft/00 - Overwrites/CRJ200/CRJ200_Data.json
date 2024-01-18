@@ -1,6 +1,6 @@
 {
 	"id": [
-		"CRJ200","CRJ100","CRJ440","CL850"
+		"CRJ200","CRJ100","CRJ440","CL850", "CRJ100SF", "CRJ200PF"
 	],
 	"copyFrom": "CRJ200",
 	"numEngines": 2,
@@ -13,49 +13,51 @@
 		"CRJ 200",
 		"CRJ 100",
 		"CRJ 440",
-		"Challenger 850"
+		"Challenger 850",
+		"CRJ 100SF",
+		"CRJ 200PF"
 	],
 	"iCAOCode": [
-		"CRJ2","CRJ1","CRJ2","CRJ2"
+		"CRJ2","CRJ1","CRJ2","CRJ2", "CRJ1", "CRJ2"
 	],
 	"manufacturer": [
 		"Bombardier"
 	],
 	"numBuilt": [
-		709,226,86,71
+		709,226,86,71,12,27
 	],
 	"yearIntroduced": [
-		1994,1991,1994,1996
+		1994,1991,1994,1996,1992,1994
 	],
 	"yearLastProduced": [
-		2006,2006,2006,2012
+		2006,2006,2006,2012,2006,2006
 	],
 	"yearRetired": [
 		2035
 	],
 	"capacity_PAX": [
-		50,50,44,14
+		50,50,44,14,0,0
 	],
 	"exitLimit_PAX": [
-		60,60,44,16
+		60,60,44,16,0,0
 	],
 	"seatsAbreast": [
-		4,4,4,2
+		4,4,4,2,4,4
 	],
 	"capacityULDLowerDeck": [
-		0
+		0,0,0,0,8,8
 	],
 	"capacityULDUpperDeck": [
 		0
 	],
 	"capacityBulkCargo_KG": [
-		1602.73333333333
+		1602,1602,1602,1602,6611,6611
 	],
 	"range_KM": [
-		3056,1850,3148,5206
+		3056,1850,3148,5206,1550,2240
 	],
 	"speed_KMH": [
-		785,785,785,950
+		785,785,785,950,785,785
 	],
 	"etops_Minutes": [
 		60
@@ -64,7 +66,9 @@
 		5531,
 		5531,
 		5531,
-		3658
+		3658,
+		5531,
+		5531
 	],
 	"engineType": [
 		"turbofan"
@@ -106,13 +110,13 @@
 		false
 	],
 	"vIP": [
-		false,false,false,true
+		false,false,false,true,false,false
 	],
 	"combi": [
 		false
 	],
 	"cargo": [
-		false
+		false,false,false,false,true,true
 	],
 	"loud": [
 		false
