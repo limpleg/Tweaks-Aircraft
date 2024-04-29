@@ -4,7 +4,7 @@
    "pixelSize":130,
    "liveryComponent":[
 	{  
-      "name":"config_exactly_NightWindows (2)_NightWindows (1)__LeftWing_RightWing_LeftTail_exactly_disable",
+      "name":"config_exactly_NightWindows (2)_NightWindows (1)_LeftWing_RightWing_LeftTail_exactly_disable",
       "layerOrder" : 0,
       "slicePosition" : {
         "x" : 1,
@@ -67,7 +67,7 @@
       },	  
 			{
       "name": "AN158Lights",
-         "layerOrder":1,
+         "layerOrder":4,
          "slicePosition":{
             "x":19,
             "y":13
@@ -78,7 +78,7 @@
          }
       },
 		{
-            "name": "config_exactly_AN158_exactly_makewindow",
+            "name": "config_exactly_AN158Lights_exactly_makewindow",
             "layerOrder": 0,
             "slicePosition": {
                 "x": 1,

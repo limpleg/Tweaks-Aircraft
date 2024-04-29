@@ -82,6 +82,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * -SP
     * -8i
     * -8f
+	* Space Shuttle Carrier Aircraft
 * B767 Family
     * -400
 * BAE146 Family
