@@ -38,10 +38,54 @@
                 "z": 0
             },
             "rotation": 0
-        }, 
+        },
 			        {  
-         "name":"Wing LeftTweak",
+         "name":"WingLeftTweakNew",
          "layerOrder":2,
+         "slicePosition":{  
+            "x":657,
+            "y":1811
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.6390226781,
+            "y":7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+	  	        {  
+         "name":"WingRigthTweakNew",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":3296,
+            "y":1811
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.6390226781,
+            "y":-7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },		
+			        {  
+         "name":"WingLeftTweakOrg",
+         "layerOrder":3,
          "slicePosition":{  
             "x":657,
             "y":71
@@ -62,8 +106,8 @@
          "rotation":270
       },
 	  	        {  
-         "name":"Wing RigthTweak",
-         "layerOrder":2,
+         "name":"WingRigthTweakOrg",
+         "layerOrder":3,
          "slicePosition":{  
             "x":3296,
             "y":71

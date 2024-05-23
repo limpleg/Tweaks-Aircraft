@@ -40,7 +40,51 @@
             "rotation": 0
         }, 
 			        {  
-         "name":"Wing LeftTweak",
+         "name":"WingLeftTweakOrg",
+         "layerOrder":3,
+         "slicePosition":{  
+            "x":657,
+            "y":71
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.7512178,
+            "y":7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+	  	        {  
+         "name":"WingRigthTweakOrg",
+         "layerOrder":3,
+         "slicePosition":{  
+            "x":3296,
+            "y":71
+         },
+         "sliceSize":{  
+            "x":2448,
+            "y":1694
+         },
+         "position":{  
+            "x":-1.7512178,
+            "y":-7.35146,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":270
+      },
+			        {  
+         "name":"WingLeftTweakNew",
          "layerOrder":2,
          "slicePosition":{  
             "x":657,
@@ -62,7 +106,7 @@
          "rotation":270
       },
 	  	        {  
-         "name":"Wing RigthTweak",
+         "name":"WingRigthTweakNew",
          "layerOrder":2,
          "slicePosition":{  
             "x":3296,
@@ -82,7 +126,7 @@
             "y":0
          },
          "rotation":270
-      },
+      },	  
 				{  
             "name":"config_exactly_LeftTail_exactly_moverel",
             "layerOrder":1,

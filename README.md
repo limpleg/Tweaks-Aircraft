@@ -83,6 +83,8 @@ Aircraft Pack For Use With ACEO Tweaks
     * -8i
     * -8f
 	* Space Shuttle Carrier Aircraft
+* B757 Family
+	* -300
 * B767 Family
     * -400
 * BAE146 Family
@@ -141,6 +143,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * ATR72
     * -Freighter	
 * An148
+* AS350
 * B377
 * B707-320
 * B737-600
@@ -183,9 +186,11 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* -200QT
 	* Avro RJ85
 * Baron 58
+* Bell 206
 * Cessna 182
 * Cessna 208
 	* Cargomaster
+* CH47	
 * Comet4
 * Concorde
 * CRJ 200
@@ -232,6 +237,8 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Dash Q Family
      * Q300
      * Q400
+* R44
+* S92	 
 * SAAB340
     * -Freighter		 
 * SF50
