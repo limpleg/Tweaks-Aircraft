@@ -4,6 +4,16 @@ Aircraft Pack For Use With ACEO Tweaks
 
 ### New Types
 
+* A300 Family
+    * A300B4200
+	* A300C4200 (Convertible)
+	* A300F4200 (Cargo)
+	* A300-600
+	* A300-600C (Convertible)
+	* A300-600F (Cargo)
+	* A310
+	* A310C (Convertible)
+	* A310F (Cargo)
 * B727-100
 * B727-200
     * -200

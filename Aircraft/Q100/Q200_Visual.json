@@ -3,94 +3,6 @@
    "liveryFileName":"Dash8_Q100.png",
    "pixelSize":170,
    "liveryComponent":[  
-      	  {  
-         "name":"FuselageQ200",
-         "layerOrder":1,
-         "slicePosition":{  
-            "x":5,
-            "y":2
-         },
-         "sliceSize":{  
-            "x":2862,
-            "y":348
-         },
-         "position":{  
-            "x":0.369,
-            "y":0.005,
-            "z":0
-         },
-         "flip":{  
-            "x":1,
-            "y":1
-         },
-         "rotation":0
-      },
-	  {  
-         "name":"Tail",
-         "layerOrder":2,
-         "slicePosition":{  
-            "x":3,
-            "y":359
-         },
-         "sliceSize":{  
-            "x":1090,
-            "y":312
-         },
-         "position":{  
-            "x":7.9612353,
-            "y":0,
-            "z":0
-         },
-         "flip":{  
-            "x":0,
-            "y":0
-         },
-         "rotation":90
-      },
-      {  
-         "name":"Engine1",
-         "layerOrder":4,
-         "slicePosition":{  
-            "x":1149,
-            "y":413
-         },
-         "sliceSize":{  
-            "x":861,
-            "y":201
-         },
-         "position":{  
-            "x":-0.79,
-            "y":-3.03529412,
-            "z":0
-         },
-         "flip":{  
-            "x":1,
-            "y":1
-         },
-         "rotation":0
-      },
-      {  
-         "name":"Engine2",
-         "layerOrder":4,
-         "slicePosition":{  
-            "x":2143,
-            "y":413
-         },
-         "sliceSize":{  
-            "x":861,
-            "y":201
-         },
-         "position":{  
-            "x":-0.79,
-            "y":3.03529412,
-            "z":0
-         },
-         "flip":{  
-            "x":1,
-            "y":1
-         },
-         "rotation":0
-      },
 	{  
             "name":"config_exactly_RightWing_LeftWing_NightWindows (2)_NightWindows (3)_exactly_disable",
       "layerOrder" : 0,
@@ -149,28 +61,6 @@
          },
          "rotation":0
       },
-		{
-      "name" : "Wing",
-      "layerOrder" : 4,
-      "slicePosition" : {
-        "x" : 5,
-        "y" : 761
-      },
-      "sliceSize" : {
-        "x" : 3327,
-        "y" : 440
-      },
-      "position" : {
-            "x":-1.0235,
-            "y":0.005,
-        "z" : -9999
-      },
-      "flip" : {
-        "x" : 0,
-        "y" : 0
-      },
-      "rotation" : 90
-    },
 	{  
             "name":"config_exactly_StrobeLightBack_BeconLight_Back1_Back2_Back3_DeicingPosition1_DeicingPosition2_exactly_moverel",
             "layerOrder":1,
@@ -193,6 +83,28 @@
             },
             "rotation":0
         },
+	{  
+            "name":"config_exactly_NightWindows (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-2.6,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
 				{  
             "name":"config_exactly_RearCargoDoor_exactly_moverel",
             "layerOrder":1,
