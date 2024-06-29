@@ -1,18 +1,20 @@
 {
 	"id": [
 		"B38M",
-		"B38M200"
+		"B38M200",
+		"BBJMAX8"
 	],
 	"copyFrom": "B737800",
 	"numEngines": 2,
 	"wingSpan_M": 35.92,
 	"length_M": 39.47,
-	"forcedReScale" : 1.0136,
+	"forcedReScale" : 1.0716,
 	"size": 2,
 	"threeStepSize": 1,
 	"displayName": [
 		"B737 MAX 8",
-		"B737 MAX 200"
+		"B737 MAX 200",
+		"Boeing Business Jet MAX 8"		
 	],
 	"iCAOCode": [
 		"B38M"
@@ -22,11 +24,13 @@
 	],
 	"numBuilt": [
 		589,
-		43
+		43,
+		10
 	],
 	"yearIntroduced": [
 		2017,
-		2019
+		2019,
+		2020
 	],
 	"yearLastProduced": [
 		2050
@@ -36,11 +40,13 @@
 	],
 	"capacity_PAX": [
 		162,
-		200
+		200,
+		24
 	],
 	"exitLimit_PAX": [
 		200,
-		211
+		211,
+		78
 	],
 	"seatsAbreast": [
 		6
@@ -55,7 +61,9 @@
 		3300
 	],
 	"range_KM": [
-		6570
+		6570,
+		6570,
+		11975
 	],
 	"speed_KMH": [
 		838
@@ -64,7 +72,9 @@
 		120
 	],
 	"fuelCapacity_L": [
-		17996
+		17996,
+		17996,
+		27408
 	],
 	"engineType": [
 		"turbofan"
@@ -77,6 +87,7 @@
 	],
 	"needStairs": [
 		true,
+		false,
 		false
 	],
 	"needPushback": [
@@ -107,7 +118,9 @@
 		false
 	],
 	"vIP": [
-		false
+		false,
+		false,
+		true
 	],
 	"combi": [
 		false

@@ -4,12 +4,24 @@ Aircraft Pack For Use With ACEO Tweaks
 
 ### New Types
 
+* A300 Family
+    * A300B4200
+	* A300C4200 (Convertible)
+	* A300F4200 (Cargo)
+	* A300-600
+	* A300-600C (Convertible)
+	* A300-600F (Cargo)
+	* A310
+	* A310C (Convertible)
+	* A310F (Cargo)
 * B727-100
 * B727-200
     * -200
     * -200 Advanced
     * -200F
-* Comac C919	
+* Comac C919
+* DC10
+	* 10F
 * Dornier 328 Family
     * DO328
 	* DO328Jet
@@ -24,9 +36,12 @@ Aircraft Pack For Use With ACEO Tweaks
 ### New Variants
 
 * A318
+	* ACJ318
 * A32X NEO Family
     * A319 Neo
+	* ACJ319 Neo
     * A320 Neo
+	* ACJ320 Neo
     * A321 Neo
     * A321 LR
     * A321 XLR
@@ -37,6 +52,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * A340-200
     * A340-500
 	* A340-600
+* AN158
 * B737 Original Family
     * -100   
     * -200
@@ -51,14 +67,18 @@ Aircraft Pack For Use With ACEO Tweaks
 * B737 NG Family
     * -700    
     * -700F
-    * -800BCF
+	* BBJ1
     * -900
     * -900ER
+	* BBJ3
 * B737 MAX Family
-    * MAX 7    
+    * MAX 7
+	* BBJ Max 7
     * MAX 8
     * MAX 200
+	* BBJ Max 8
     * MAX 9
+	* BBJ MAX 9
     * MAX 10	
 * B747 Family
     * -100
@@ -72,6 +92,9 @@ Aircraft Pack For Use With ACEO Tweaks
     * -SP
     * -8i
     * -8f
+	* Space Shuttle Carrier Aircraft
+* B757 Family
+	* -300
 * B767 Family
     * -400
 * BAE146 Family
@@ -109,15 +132,18 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* 1900D Super Freighter
 * A220 Family
 	* -100
+	* ACJ TwoTwenty
 	* -300	
 * A32X Family
+	* ACJ319
+	* ACJ320
 	* A320P2F
 	* A321P2F
 * A330-200
     * -200F
 	* -300P2F
 * A340-300
-* A350 Familöy
+* A350 Family
     * -900
     * -900ULR
     * -1000	
@@ -127,12 +153,14 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * ATR72
     * -Freighter	
 * An148
+* AS350
 * B377
 * B707-320
 * B737-600
 * B737-800
     * -800
     * -800BCF
+	* BBJ2
 * B747-400
     * -400M
     * -400D
@@ -168,9 +196,11 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* -200QT
 	* Avro RJ85
 * Baron 58
+* Bell 206
 * Cessna 182
 * Cessna 208
 	* Cargomaster
+* CH47	
 * Comet4
 * Concorde
 * CRJ 200
@@ -192,6 +222,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
     * E175
     * E190
 		* 190F
+		* Lineage 1000
     * E195
 		* 195F
 * Fokker 70/100
@@ -201,7 +232,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * L1049
 * LJ75
 * MD11
-      MD11F
+     *  MD11F
 * MD80
      * *"MD80" interpreted as MD83*
      * MD81
@@ -216,6 +247,8 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Dash Q Family
      * Q300
      * Q400
+* R44
+* S92	 
 * SAAB340
     * -Freighter		 
 * SF50
