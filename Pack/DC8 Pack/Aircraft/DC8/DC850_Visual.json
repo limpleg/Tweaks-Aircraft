@@ -4,24 +4,6 @@
 	"pixelSize": 162,
 	"liveryComponent": [
 		{
-			"name": "fus",
-			"layerOrder": 4,
-			"slicePosition": {
-				"x": 50.0,
-				"y": 6250.0
-			},
-			"sliceSize": {
-				"x": 5014.0,
-				"y": 438.0
-			},
-			"position": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			},
-			"rotation": 0
-		},
-		{
 			"name": "LeftWing2",
 			"layerOrder": 3,
 			"slicePosition": {
@@ -106,86 +88,6 @@
 			"rotation": 0.0
 		},
 		{
-			"name": "E1",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":4018.0,
-                "y":3588.0
-            },
-            "sliceSize":{
-                "x":712.0,
-                "y":220.0
-            },
-			"position": {
-				"x": 0.04,
-				"y": -9.29,
-				"z": 0.0
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E2",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":4018.0,
-                "y":3588.0
-            },
-            "sliceSize":{
-                "x":712.0,
-                "y":220.0
-            },
-			"position": {
-				"x": 2.41,
-				"y": -5.358,
-				"z": 0.0
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E3",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":4018.0,
-                "y":3588.0
-            },
-            "sliceSize":{
-                "x":712.0,
-                "y":220.0
-            },
-			"position": {
-				"x": 2.41,
-				"y": 5.358,
-				"z": 0.0
-			},
-			"flip": {
-				"x": 0,
-				"y": 1
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E4",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":4018.0,
-                "y":3588.0
-            },
-            "sliceSize":{
-                "x":712.0,
-                "y":220.0
-            },
-			"position": {
-				"x": 0.04,
-				"y": 9.29,
-				"z": 0.0
-			},
-			"flip": {
-				"x": 0,
-				"y": 1
-			},
-			"rotation": 0.0
-		},
-		{
 			"name": "Tail",
 			"layerOrder": 5,
 			"slicePosition": {
@@ -225,24 +127,6 @@
                 "z":0.9
 			},
             "rotation":180.0
-        },
-		{
-            "name":"nightwindows_config_self_makewindow",
-            "layerOrder":7,
-            "slicePosition":{
-                "x":302.0,
-                "y":4960.0
-            },
-            "sliceSize":{
-                "x":3610.0,
-                "y":412.0
-            },
-            "position":{
-                "x":2.781,
-                "y":0.0,
-                "z":0.0
-            },
-            "rotation":0.0
         },
 		{
 			"name": "config_exactly_RightWing_LeftWing_RightTail_NightWindows (1)_NightWindows (2)_NightWindows (8)_Flaps_exactly_disable",

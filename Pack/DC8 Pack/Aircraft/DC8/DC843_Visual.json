@@ -4,24 +4,6 @@
 	"pixelSize": 162,
 	"liveryComponent": [
 		{
-			"name": "fus",
-			"layerOrder": 4,
-			"slicePosition": {
-				"x": 50.0,
-				"y": 6250.0
-			},
-			"sliceSize": {
-				"x": 5014.0,
-				"y": 438.0
-			},
-			"position": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			},
-			"rotation": 0
-		},
-		{
 			"name": "LeftWing2",
 			"layerOrder": 3,
 			"slicePosition": {
@@ -97,86 +79,6 @@
 			"position": {
 				"x": 0.92,
 				"y": 7.321,
-				"z": 0.0
-			},
-			"flip": {
-				"x": 0,
-				"y": 1
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E1",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":3986.0,
-                "y":3264.0
-            },
-            "sliceSize":{
-                "x":810.0,
-                "y":311.0
-            },
-			"position": {
-				"x": 0.44,
-				"y": -9.24,
-				"z": 0.0
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E2",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":3986.0,
-                "y":3264.0
-            },
-            "sliceSize":{
-                "x":810.0,
-                "y":311.0
-            },
-			"position": {
-				"x": 2.81,
-				"y": -5.308,
-				"z": 0.0
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E3",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":3986.0,
-                "y":3264.0
-            },
-            "sliceSize":{
-                "x":810.0,
-                "y":311.0
-            },
-			"position": {
-				"x": 2.81,
-				"y": 5.308,
-				"z": 0.0
-			},
-			"flip": {
-				"x": 0,
-				"y": 1
-			},
-			"rotation": 0.0
-		},
-		{
-			"name": "E4",
-			"layerOrder": 0,
-            "slicePosition":{
-                "x":3986.0,
-                "y":3264.0
-            },
-            "sliceSize":{
-                "x":810.0,
-                "y":311.0
-            },
-			"position": {
-				"x": 0.44,
-				"y": 9.24,
 				"z": 0.0
 			},
 			"flip": {
