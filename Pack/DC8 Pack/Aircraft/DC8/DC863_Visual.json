@@ -167,7 +167,7 @@
             "name":"myshadow10_config_self_makeshadow",
             "layerOrder":0,
             "slicePosition":{
-                "x":4586.0,
+                "x":20.0,
                 "y":1290.0
             },
             "sliceSize":{
@@ -185,24 +185,6 @@
                 "z":0.9
 			},
             "rotation":180.0
-        },
-		{
-            "name":"nightwindows_config_self_makewindow",
-            "layerOrder":7,
-            "slicePosition":{
-                "x":304.0,
-                "y":5824.0
-            },
-            "sliceSize":{
-                "x":5034.0,
-                "y":412.0
-            },
-            "position":{
-                "x":2.219,
-                "y":0.0,
-                "z":0.0
-            },
-            "rotation":0.0
         },
 		{
 			"name": "config_exactly_RightWing_LeftWing_RightTail_NightWindows (1)_NightWindows (2)_NightWindows (8)_Flaps_exactly_disable",
@@ -234,8 +216,8 @@
                 "y":1
             },
             "position":{  
-                "x":2.7592592592592592592592592592593,
-                "y":-1.1296296296296296296296296296296,
+                "x":1.9753086419753086419753086419753,
+                "y":-0.23456790123456790123456790123454,
                 "z":0
             },
             "flip":{  
@@ -256,8 +238,8 @@
                 "y":1
             },
             "position":{  
-                "x":2.7592592592592592592592592592593,
-                "y":1.1296296296296296296296296296296,
+                "x":1.9753086419753086419753086419753,
+                "y":0.23456790123456790123456790123454,
                 "z":0
             },
             "flip":{  
@@ -278,8 +260,8 @@
                 "y":1
             },
             "position":{  
-                "x":4.4506172839506172839506172839506,
-                "y":-1.2345679012345679012345679012346,
+                "x":3.7901234567901234567901234567901,
+                "y":-0.45679012345679012345679012345682,
                 "z":0
             },
             "flip":{  
@@ -300,8 +282,8 @@
                 "y":1
             },
             "position":{  
-                "x":4.4506172839506172839506172839506,
-                "y":1.2345679012345679012345679012346,
+                "x":3.7901234567901234567901234567901,
+                "y":0.45679012345679012345679012345682,
                 "z":0
             },
             "flip":{  
@@ -322,7 +304,7 @@
                 "y":1
             },
             "position":{  
-                "x":4.1851851851851851851851851851852,
+                "x":0.1172839506172839506172839506173,
                 "y":0,
                 "z":0
             },
@@ -366,7 +348,7 @@
                 "y":1
             },
             "position":{  
-                "x":1.4506172839506172839506172839506,
+                "x":2.9135802469135802469135802469136,
                 "y":0,
                 "z":0
             },
@@ -465,7 +447,7 @@
             "rotation":0
         },
 				{  
-            "name":"config_exactly_LeftFrontDoor_CateringTruckPaths_exactly_moverel",
+            "name":"config_exactly_LeftFrontDoor_exactly_moverel",
             "layerOrder":1,
             "slicePosition":{  
                 "x":1,
@@ -476,7 +458,7 @@
                 "y":1
             },
             "position":{  
-                "x":-2.4135802469135802469135802469136,
+                "x":2.5246913580246913580246913580247,
                 "y":0.5,
                 "z":0
             },
@@ -486,6 +468,28 @@
             },
             "rotation":0
         },
+				{  
+            "name":"config_exactly_CateringTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":2.5246913580246913580246913580247,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
 				{  
             "name":"config_exactly_RightFrontDoor_ChristmasHatPosition_exactly_moverel",
             "layerOrder":1,
@@ -498,7 +502,7 @@
                 "y":1
             },
             "position":{  
-                "x":-1.7901234567901234567901234567901,
+                "x":2.1172839506172839506172839506173,
                 "y":0,
                 "z":0
             },
@@ -520,7 +524,7 @@
                 "y":1
             },
             "position":{  
-                "x":4.7901234567901234567901234567901,
+                "x":-0.09259259259259259259259259259262,
                 "y":-0.2,
                 "z":0
             },
@@ -530,6 +534,28 @@
             },
             "rotation":0
         },
+				{  
+            "name":"config_exactly_CleaningTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-4,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
 				{  
             "name":"config_exactly_FuelTruckPaths_exactly_moverel",
             "layerOrder":1,
@@ -564,7 +590,7 @@
                 "y":1
             },
             "position":{  
-                "x":4.5308641975308641975308641975309,
+                "x":7.5308641975308641975308641975309,
                 "y":0,
                 "z":0
             },
@@ -574,6 +600,28 @@
             },
             "rotation":0
         },
+				{  
+            "name":"config_exactly_TurnPosition_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":2,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
 				{  
             "name":"config_exactly_DeicingPosition3_exactly_moveabs",
             "layerOrder":1,
