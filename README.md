@@ -20,6 +20,30 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200 Advanced
     * -200F
 * Comac C919
+* DC8 Family
+    * -10
+    * -20
+		* -20F
+    * -30
+		* -30F
+    * -40
+    * -43
+		* -43F
+    * -50
+		* -54F
+    * -55
+    * -61
+		* -61F   
+    * -62
+		* -62F
+    * -63
+		* -63F
+    * -71
+		* -71F   
+    * -72
+		* -72F
+    * -73
+		* -73F     
 * DC10
 	* 10F
 * Dornier 328 Family
