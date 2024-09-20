@@ -55,6 +55,12 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 140
     * ERJ 145
     * ERJ 145XR
+* JU52 Family
+	* JU52/m1
+	* JU52/m3
+	* Amiot AAC.1
+	* Casa C-352
+	* Casa C-352L
 * Pilatus PC6	
 
 ### New Variants
