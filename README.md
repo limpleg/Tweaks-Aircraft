@@ -19,6 +19,12 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200 Advanced
     * -200F
+* BAC 1-11 
+    * -200
+    * -300
+    * -400
+    * -400F
+    * -500	
 * Comac C919
 * DC8 Family
     * -10
