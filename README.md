@@ -26,6 +26,22 @@ Aircraft Pack For Use With ACEO Tweaks
     * -400F
     * -500	
 * Comac C919
+* DC1
+* DC2
+* DC4 Family
+    * -F
+	* Canadair Northstar
+	* Aviation Traders ATL-98 Carvair
+* DC5
+* DC6 Family
+    * -A
+    * -B
+    * -C
+* DC7 Family
+    * -F
+    * -B
+    * -C
+    * -CF	
 * DC8 Family
     * -10
     * -20

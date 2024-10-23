@@ -1,0 +1,11 @@
+{
+    "id": "7aa6a287-3e39-40bb-a785-1e1e7737ed6a",
+    "publishedFileId": 0,
+    "name": "Aircraft Pack: DC1-2-4-5-6-7 Pack",
+    "description": "Brings the DC1/DC2/DC4/DC5/DC6/DC7/ATL-98 and Canadair North Star to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These DC's will only spawn from airline mods which include them. \n \n Known (yet not fixable) issues: \n DC4, DC6 and DC7 with wrong Cleaning and Catering Positions and Trucks drive through plane, PAX may walk under the wings, Jet Gateways will not attach to fuselage and on 4-Engines aircrafts the inner props are only static.",
+    "author": "faebue",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}
