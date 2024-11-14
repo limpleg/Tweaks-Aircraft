@@ -105,6 +105,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * A340-500
 	* A340-600
 * AN158
+* B717
 * B737 Original Family
     * -100   
     * -200
@@ -172,6 +173,9 @@ Aircraft Pack For Use With ACEO Tweaks
 * Dash8 Family
     * Q100
     * Q200
+* MD80 Family
+    * MD87
+    * MD90	
 
 ### Updates/Additions With no or just small Visual Changes
 

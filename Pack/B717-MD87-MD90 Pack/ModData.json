@@ -1,0 +1,11 @@
+{
+    "id": "cc2052b0-41ec-4030-8a16-aa4cddb9d032",
+    "publishedFileId": 0,
+    "name": "Aircraft Pack: B717, MD87 & MD90",
+    "description": "Brings MD87/MD90/B717 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. This aircrafts will only spawn from airline mods which include them. \n \n Known Issue: Cleaning Truck on MD87 and B717 will still spawn at the back on non existing door and do not have enough space between wingn and engine to attach ",
+    "author": "dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}
