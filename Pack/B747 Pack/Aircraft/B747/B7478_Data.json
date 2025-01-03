@@ -34,11 +34,11 @@
 	],
     "capacity_PAX": [
 	467,
-	0
+	1
 	],
     "exitLimit_PAX": [
 	605,
-	0
+	1
 	],
     "seatsAbreast": [10],
     "capacityULDLowerDeck": [
@@ -78,7 +78,7 @@
     "jetbridgePoints": [2],
     "conveyerPoints": [2],
     "cleaningPoints": [1],
-    "cateringPoints": [1],
+    "cateringPoints": [2],
     "sonicBoom": [false],
     "vIP": [false],
     "combi": [

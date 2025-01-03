@@ -77,6 +77,9 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 140
     * ERJ 145
     * ERJ 145XR
+* Grumann G-21 Goose
+    * G-21A
+    * G-21G	
 * JU52 Family
 	* JU52/m1
 	* JU52/m3

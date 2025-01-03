@@ -42,9 +42,9 @@
 	"yearLastProduced": [],
 	"yearRetired": [],
 	"capacity_PAX": [
-		189,189,0,0
+		189,189,1,1
 	],
-	"exitLimit_PAX": [],
+	"exitLimit_PAX": [189,189,1,1],
 	"seatsAbreast": [
 		6
 	],

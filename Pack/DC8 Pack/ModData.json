@@ -1,1 +1,11 @@
-{"id":"72307c1b-714b-458e-aa94-ad7a306f1d99","publishedFileId":0,"name":"Aircraft Pack: DC-8 Series","description":"Brings the DC-8 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. DC-8s will only spawn from airline mods which include them.","author":"zekew11","version":"0","iconFileName":"Logo.png","modType":"","tags":["Tweaks"]}
+{
+    "id": "72307c1b-714b-458e-aa94-ad7a306f1d99",
+    "publishedFileId": 3307318329,
+    "name": "Aircraft Pack: DC-8 Series",
+    "description": "Brings the DC-8 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. DC-8s will only spawn from airline mods which include them. \n \n Included Types: \n- DC8-10 \n- DC8-20 \n - DC8-20F \n- DC8-30 \n- DC8-30F \n- DC8-40 \n- DC8-43 \n- DC8-43F \n- DC8-50 \n- DC8-54F \n- DC8-55 \n- DC8-61 \n- DC8-61F \n- DC8-62 \n- DC8-62F \n- DC8-63 \n- DC8-63F \n- DC8-71 \n- DC8-71F \n- DC8-72 \n- DC8-72F \n- DC8-73 \n- DC8-73F",
+    "author": "zekew11",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

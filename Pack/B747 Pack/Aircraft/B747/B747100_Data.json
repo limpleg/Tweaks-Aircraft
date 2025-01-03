@@ -62,14 +62,14 @@
 	452,
 	400,
 	320,
-	0
+	1
 	],
     "exitLimit_PAX": [
 	440,
 	480,
 	480,
 	480,
-	0
+	1
 	],
     "seatsAbreast": [10],
     "capacityULDLowerDeck": [

@@ -31,11 +31,11 @@
 	],
     "capacity_PAX": [
 	332,
-	0
+	1
 	],
     "exitLimit_PAX": [
 	410,
-	0
+	1
 	],
     "seatsAbreast": [
 	9
