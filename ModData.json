@@ -1,1 +1,11 @@
-{"id":"a275c287-59ab-4770-8b4b-9e08c7adca3a","publishedFileId":2920123551,"name":"Aircraft Pack: Tweaks Aircraft MegaPack","description":"An all-in-one pack for all aircraft added by the modding community. Use this with ACEO Tweaks Core and ACEO Tweaks Aircraft Framework.","author":"zekew11,dawed","version":"0","iconFileName":"Logo.png","modType":"","tags":["Tweaks","Aircraft Pack"]}
+{
+    "id": "a275c287-59ab-4770-8b4b-9e08c7adca3a",
+    "publishedFileId": 2920123551,
+    "name": "Aircraft Pack: Tweaks Aircraft MegaPack",
+    "description": "An all-in-one pack for all aircraft added by the modding community. Use this with ACEO Tweaks Core and ACEO Tweaks Aircraft Framework. /n If you use this megapack, you do not need to install individual aircarft packs!",
+    "author": "zekew11,dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

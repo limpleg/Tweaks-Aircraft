@@ -1,0 +1,117 @@
+{
+	"id": [
+		"B717"
+	],
+	"copyFrom": "MD80",
+	"numEngines": 2,
+	"wingSpan_M": 28.45,
+	"length_M": 38,
+	"forcedReScale" : 0.9938,
+	"size": 4,
+	"threeStepSize": 1,
+	"displayName": [
+		"B717"
+	],
+	"iCAOCode": [
+		"B717"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		155
+	],
+	"yearIntroduced": [
+		1995
+	],
+	"yearLastProduced": [
+		2006
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		117
+	],
+	"exitLimit_PAX": [
+		134
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		1900
+	],
+	"range_KM": [
+		3815
+	],
+	"speed_KMH": [
+		822
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		11627
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [
+		1905
+	],
+	"maxTOW_KG": [
+		55000
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

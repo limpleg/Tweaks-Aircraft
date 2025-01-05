@@ -1,0 +1,374 @@
+{  
+    "aircraftType":"G-21A",
+    "liveryFileName":"G21.png",
+    "pixelSize":228.75,
+    "liveryComponent":[  
+      	{
+            "name": "config_exactly_RightWing_LeftWing_Flaps_RearBagageDoor_RearDoor2_RearDoor1_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+      	{
+            "name": "config_exactly_NightWindows_exactly_moverel",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 90
+            },
+            "rotation": 0
+        },			
+{  
+            "name":"config_exactly_LeftProp_exactly_moverel",
+            "layerOrder":2,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.31912568306010928961748633879781,                
+				"y":-0.91366120218579234972677595628415,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_RightProp_exactly_moverel",
+            "layerOrder":2,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.31912568306010928961748633879781,                
+				"y":0.91366120218579234972677595628415,
+                "z":0
+            }
+  }, 		
+	  {  
+         "name":"NightCockpit",
+         "layerOrder":7,
+         "slicePosition":{  
+            "x":2111,
+            "y":219
+         },
+         "sliceSize":{  
+            "x":255,
+            "y":324
+         },
+         "position":{  
+            "x":0,
+            "y":2.3431693989071038251366120218579,
+            "z":0
+         },
+         "rotation":90
+      },
+		{
+            "name": "config_exactly_NightCockpit_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+	{  
+      "name":"myshadowG21A_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 60,
+				"y" : 16
+			},
+			"sliceSize" : {
+				"x" : 922,
+				"y" : 722
+            },
+            "position":{  
+                "x":-0.01,
+                "y":-0.1,
+                "z":0
+            },
+			"scale":{
+			    "x":1,
+                "y":1,
+                "z":1
+			},
+      "rotation" : 0
+    },
+{  
+            "name":"config_exactly_TaxiLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":3.3131147540983606557377049180328,                
+				"y":0,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.1234972677595628415300546448087,                
+				"y":-2.2207650273224043715846994535519,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.1234972677595628415300546448087,                
+				"y":2.2207650273224043715846994535519,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.06994535519125683060109289617486,                
+				"y":-2.6666666666666666666666666666666,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.06994535519125683060109289617486,                
+				"y":2.6666666666666666666666666666666,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.36721311475409836065573770491803,                
+				"y":2.644808743169398907103825136612,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.36721311475409836065573770491803,                
+				"y":-2.644808743169398907103825136612,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_StrobeLightBack_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":2.032786885245901639344262295082,                
+				"y":0,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_BeconLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-6.9595628415300546448087431693989,                
+				"y":0,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_FuelTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-2,                
+				"y":0,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_Cone_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,                
+				"y":-2.2426229508196721311475409836066,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_Cone (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,                
+				"y":2.2426229508196721311475409836066,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_RightRearDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.3628415300546448087431693989071,                
+				"y":0,
+                "z":0
+            }
+  },
+{  
+            "name":"config_exactly_LeftRearDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.3628415300546448087431693989071,                
+				"y":0,
+                "z":0
+            }
+  }  
+    ]
+}

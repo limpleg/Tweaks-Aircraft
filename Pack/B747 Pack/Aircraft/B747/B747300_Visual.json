@@ -128,7 +128,8 @@
         "z" : 0
       },
       "rotation" : 0
-    },	
+    },
+	
 		{
             "name": "config_exactly_BackLights_FrontLights_Back300MLights_UpperdeckLights_UpperdeckSRLights_exactly_makewindow",
             "layerOrder": 0,
@@ -147,6 +148,28 @@
             },
             "rotation": 0
         },
+			{  
+            "name":"config_exactly_RightRearDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-2.44827586206896551724137931034483,
+                "y":0.000,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
 				{  
             "name":"config_exactly_LandingLight_LandingLight (1)_exactly_moverel",
             "layerOrder":1,

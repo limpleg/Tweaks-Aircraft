@@ -19,7 +19,53 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200 Advanced
     * -200F
+* BAC 1-11 
+    * -200
+    * -300
+    * -400
+    * -400F
+    * -500	
 * Comac C919
+* DC1
+* DC2
+* DC4 Family
+    * -F
+	* Canadair Northstar
+	* Aviation Traders ATL-98 Carvair
+* DC5
+* DC6 Family
+    * -A
+    * -B
+    * -C
+* DC7 Family
+    * -F
+    * -B
+    * -C
+    * -CF	
+* DC8 Family
+    * -10
+    * -20
+		* -20F
+    * -30
+		* -30F
+    * -40
+    * -43
+		* -43F
+    * -50
+		* -54F
+    * -55
+    * -61
+		* -61F   
+    * -62
+		* -62F
+    * -63
+		* -63F
+    * -71
+		* -71F   
+    * -72
+		* -72F
+    * -73
+		* -73F     
 * DC10
 	* 10F
 * Dornier 328 Family
@@ -31,6 +77,15 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 140
     * ERJ 145
     * ERJ 145XR
+* Grumann G-21 Goose
+    * G-21A
+    * G-21G	
+* JU52 Family
+	* JU52/m1
+	* JU52/m3
+	* Amiot AAC.1
+	* Casa C-352
+	* Casa C-352L
 * Pilatus PC6	
 
 ### New Variants
@@ -53,6 +108,7 @@ Aircraft Pack For Use With ACEO Tweaks
     * A340-500
 	* A340-600
 * AN158
+* B717
 * B737 Original Family
     * -100   
     * -200
@@ -120,6 +176,9 @@ Aircraft Pack For Use With ACEO Tweaks
 * Dash8 Family
     * Q100
     * Q200
+* MD80 Family
+    * MD87
+    * MD90	
 
 ### Updates/Additions With no or just small Visual Changes
 

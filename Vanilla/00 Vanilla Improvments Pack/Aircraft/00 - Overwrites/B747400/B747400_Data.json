@@ -44,13 +44,13 @@
 	],
     "capacity_PAX": [
 	416,
-	0,
+	1,
 	280,
 	568
 	],
     "exitLimit_PAX": [
 	660,
-	0,
+	1,
 	350,
 	660
 	],
@@ -105,7 +105,7 @@
     "jetbridgePoints": [2],
     "conveyerPoints": [2],
     "cleaningPoints": [1],
-    "cateringPoints": [1],
+    "cateringPoints": [2],
     "sonicBoom": [false],
     "vIP": [false],
     "combi": [
