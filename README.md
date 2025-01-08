@@ -25,6 +25,8 @@ Aircraft Pack For Use With ACEO Tweaks
     * -400
     * -400F
     * -500	
+* Comac C909
+    * CCF
 * Comac C919
 * DC1
 * DC2
