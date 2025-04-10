@@ -67,7 +67,15 @@ Aircraft Pack For Use With ACEO Tweaks
     * -72
 		* -72F
     * -73
-		* -73F     
+		* -73F
+* DC9 Family
+    * -10
+		* -10C	
+    * -20
+    * -30
+		* -33AF
+    * -40
+    * -50
 * DC10
 	* 10F
 * Dornier 328 Family
