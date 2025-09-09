@@ -81,6 +81,8 @@ Aircraft Pack For Use With ACEO Tweaks
 * Dornier 328 Family
     * DO328
 	* DO328Jet
+* Embraer EMB 120 Brasilia
+    * -FC (Cargo)
 * Embraer ERJ Family
     * ERJ 135
     * Legacy 600
