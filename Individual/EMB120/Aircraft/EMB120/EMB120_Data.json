@@ -1,6 +1,6 @@
 {
 	"id": [
-		"EMB120","EMB120FC"
+		"EMB120","EMB120FC","EMB120GA"
 	],
 	"copyFrom": "1900D",
 	"numEngines": 2,
@@ -10,7 +10,7 @@
 	"threeStepSize": 0,
 	"forcedReScale" : 0.8731,	
 	"displayName": [
-		"Embraer EMB 120 Brasilia","Embraer EMB 120 Cargo"
+		"Embraer EMB 120 Brasilia","Embraer EMB 120 Cargo", "Embraer EMB 120 General Aviation"
 	],
 	"iCAOCode": [
 		"E120"
@@ -19,7 +19,7 @@
 		"Embraer"
 	],
 	"numBuilt": [
-		300,58
+		300,58,100
 	],
 	"yearIntroduced": [
 		1983
@@ -31,10 +31,10 @@
 		2050
 	],
 	"capacity_PAX": [
-		30,1
+		30,1,15
 	],
 	"exitLimit_PAX": [
-		36,1
+		36,1,20
 	],
 	"seatsAbreast": [
 		3
@@ -46,7 +46,7 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		1200,4000
+		1200,4000,1200
 	],
 	"range_KM": [
 		1750
@@ -100,13 +100,13 @@
 		false
 	],
 	"vIP": [
-		false
+		false,false,true
 	],
 	"combi": [
 		false
 	],
 	"cargo": [
-		false,true
+		false,true,false
 	],
 	"loud": [
 		false
