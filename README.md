@@ -229,7 +229,6 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * ATR72
     * -Freighter	
 * An148
-* AS350
 * B377
 * B707-320
 * B737-600
@@ -272,11 +271,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* -200QT
 	* Avro RJ85
 * Baron 58
-* Bell 206
 * Cessna 182
 * Cessna 208
 	* Cargomaster
-* CH47	
 * Comet4
 * Concorde
 * CRJ 200
@@ -323,8 +320,6 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Dash Q Family
      * Q300
      * Q400
-* R44
-* S92	 
 * SAAB340
     * -Freighter		 
 * SF50
@@ -334,3 +329,79 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Tu154
 * VC10
 * WT9
+
+#### Helicopters
+
+* AS350
+* Bell 206
+* CH47	
+* R44
+* S92	
+
+# Tweaks General Aviation Overview
+
+This list of aircraft changes is for General Aviation Aircrafts.
+
+*When no dedicated GA Aircraft is present, it will spawn all available liveries randomly.
+
+### Vanilla GA
+
+*No changes needed
+
+* Baron 58
+* Cessna 182
+* LJ75
+* PA28
+* PC12
+* PC24
+* Piper Cub
+* SF50
+* WT9
+
+### Vanilla Helicopter GA
+
+*No changes needed
+
+* AS350
+* Bell 206
+* R44
+
+### additional Vanilla GA
+
+*only available with aircraft framework, spawn all available liveries from airlines as well
+
+* DC3
+* Ford Trimotor
+
+### Tweaks Aircrafts as GA
+
+*will spawn if any livery is present
+
+* DC1
+* DC2
+* Li2
+* DC5
+* CL601
+* CL604
+* CL605
+* CL650
+* G-21A
+* G-21G
+* JU52m1
+* AAC1
+* C-352
+* C-352L
+
+### Tweaks Aircrafts with additional GA variant
+
+*will spawn if GA livery is present
+
+* DO328GA
+* DO328JetGA
+* EMB120GA
+* P180GA
+* PC6GA
+
+
+
+
