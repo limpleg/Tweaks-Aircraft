@@ -1,8 +1,8 @@
 {
 	"id": [
-		"P180","P180GA"
+		"P180"
 	],
-	"isGeneralAviation": [false,true],		
+	"isGeneralAviation": [true],		
 	"copyFrom": "1900D",
 	"numEngines": 2,
 	"wingSpan_M": 14.03,
@@ -11,7 +11,7 @@
 	"threeStepSize": 0,
 	"forcedReScale" : 0.8733,	
 	"displayName": [
-		"Piaggio P.180 Avanti","Piaggio P.180 Avanti GA"
+		"Piaggio P.180 Avanti"
 	],
 	"iCAOCode": [
 		"P180"
@@ -101,7 +101,7 @@
 		false
 	],
 	"vIP": [
-		false,true
+		true
 	],
 	"combi": [
 		false

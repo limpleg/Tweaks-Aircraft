@@ -100,8 +100,7 @@ Aircraft Pack For Use With ACEO Tweaks
 	* Amiot AAC.1 (GA Possible)
 	* Casa C-352 (GA Possible)
 	* Casa C-352L (GA Possible)
-* Piaggio P.180 Avanti
-	* GA (For GA Only)	
+* Piaggio P.180 Avanti (GA Possible)
 * Pilatus PC6
 	* GA (For GA Only)
 
@@ -388,9 +387,11 @@ This list of aircraft changes is for General Aviation Aircrafts.
 * G-21A
 * G-21G
 * JU52m1
+* JU52m3
 * AAC1
 * C-352
 * C-352L
+* P180
 
 ### Tweaks Aircrafts with additional GA variant
 
@@ -399,7 +400,6 @@ This list of aircraft changes is for General Aviation Aircrafts.
 * DO328GA
 * DO328JetGA
 * EMB120GA
-* P180GA
 * PC6GA
 
 
