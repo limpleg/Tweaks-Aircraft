@@ -345,7 +345,7 @@ This list of aircraft changes is for General Aviation Aircrafts.
 
 ### Vanilla GA
 
-*No changes needed
+*No changes needed, spawn all available liveries from airlines too
 
 * Baron 58
 * Cessna 182
@@ -359,7 +359,7 @@ This list of aircraft changes is for General Aviation Aircrafts.
 
 ### Vanilla Helicopter GA
 
-*No changes needed
+*No changes needed, spawn all available liveries from airlines too
 
 * AS350
 * Bell 206
@@ -367,14 +367,14 @@ This list of aircraft changes is for General Aviation Aircrafts.
 
 ### additional Vanilla GA
 
-*only available with aircraft framework, spawn all available liveries from airlines as well
+*only available with aircraft framework, spawn all available liveries from airlines too
 
 * DC3
 * Ford Trimotor
 
 ### Tweaks Aircrafts as GA
 
-*will spawn if any livery is present
+*will spawn all available liveries from airlines too
 
 * DC1
 * DC2
