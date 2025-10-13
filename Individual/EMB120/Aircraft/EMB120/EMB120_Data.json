@@ -2,6 +2,7 @@
 	"id": [
 		"EMB120","EMB120FC","EMB120GA"
 	],
+	"isGeneralAviation": [false,false,true],		
 	"copyFrom": "1900D",
 	"numEngines": 2,
 	"wingSpan_M": 19.78,
