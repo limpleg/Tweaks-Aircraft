@@ -1,0 +1,91 @@
+{
+   "aircraftType":"C-352",
+   "liveryFileName":"C-352_Mod.png",
+   "pixelSize":335,
+   "liveryComponent":[
+      {
+         "name":"Fuselage",
+         "layerOrder":2,
+         "slicePosition":{
+            "x":22,
+            "y":55
+         },
+         "sliceSize":{
+            "x":4688,
+            "y":441
+         },
+         "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+         },		 
+         "flip":{
+            "x":1,
+            "y":1
+         }
+      },
+      {
+         "name":"RightWing",
+         "layerOrder":1,
+         "slicePosition":{
+            "x":102,
+            "y":703
+         },
+         "sliceSize":{
+            "x":1721,
+            "y":3528
+         },
+         "position": {
+             "x": 2.8388059701492537313432835820896,
+             "y": -5.8955223880597014925373134328358,
+             "z": 0
+         },		 
+         "flip":{
+            "x":1,
+            "y":1
+         }
+      },
+      {
+         "name":"LeftWing",
+         "layerOrder":1,
+         "slicePosition":{
+            "x":1946,
+            "y":703
+         },
+         "sliceSize":{
+            "x":1721,
+            "y":3529
+         },
+         "position": {
+             "x": 2.8388059701492537313432835820896,
+             "y": 5.8955223880597014925373134328358,
+             "z": 0
+         },		 
+         "flip":{
+            "x":1,
+            "y":1
+         }
+	  }, 
+      {
+         "name":"Stab",
+         "layerOrder":3,
+         "slicePosition":{
+            "x":3675,
+            "y":703
+         },
+         "sliceSize":{
+            "x":574,
+            "y":2393
+         },
+         "position": {
+             "x": -5.176119402985074626865671641791,
+             "y": 0,
+             "z": 0
+         },		 
+         "flip":{
+            "x":1,
+            "y":1
+         }		 
+      }	  
+   ]
+}

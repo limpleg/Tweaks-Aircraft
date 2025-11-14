@@ -1,0 +1,120 @@
+{  
+   "aircraftType":"DO328JetGA",
+   "liveryFileName":"DO328JetGA_Mod.png",
+   "pixelSize":205,
+   "liveryComponent":[  
+	{  
+      "name":"myshadowjet_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 2238,
+				"y" : 948
+			},
+			"sliceSize" : {
+				"x" : 586,
+				"y" : 578
+            },
+            "position":{  
+                "x":-0.5,
+                "y":0.02,
+                "z":0
+            },
+			"scale":{
+			    "x":0.61,
+                "y":0.55,
+                "z":1.0
+			},
+      "rotation" : 0
+    },   
+ {
+            "name": "config_exactly_LeftProp_RightProp_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+ {  
+         "name":"Fuselage",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":138,
+            "y":16
+         },
+         "sliceSize":{  
+            "x":3140,
+            "y":361
+         },
+         "position":{  
+            "x":0,
+            "y":0,
+            "z":0
+         },
+         "rotation":180
+      },
+ {  
+         "name":"Tail",
+         "layerOrder":3,
+         "slicePosition":{  
+            "x":160,
+            "y":394
+         },
+         "sliceSize":{  
+            "x":1538,
+            "y":1034
+         },
+         "position":{  
+            "x":3.809756097560975,
+            "y":0,
+            "z":0
+         },
+         "rotation":180
+      },
+ {  
+         "name":"EngineLeft",
+         "layerOrder":6,
+         "slicePosition":{  
+            "x":2395,
+            "y":706
+         },
+         "sliceSize":{  
+            "x":288,
+            "y":169
+         },
+         "position":{  
+            "x":-2.63317073170730804,
+            "y":-2.96497560975609,
+            "z":0
+         },
+         "rotation":180
+      },
+ {  
+         "name":"EngineRigth",
+         "layerOrder":6,
+         "slicePosition":{  
+            "x":2395,
+            "y":498
+         },
+         "sliceSize":{  
+            "x":288,
+            "y":169
+         },
+         "position":{  
+            "x":-2.63317073170730804,
+            "y":2.96497560975609,
+            "z":0
+         },
+         "rotation":180
+      }	  
+   ]
+}

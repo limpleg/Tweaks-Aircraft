@@ -1,0 +1,157 @@
+{  
+   "aircraftType":"P180",
+   "liveryFileName":"P180_MOD.png",
+   "pixelSize":133,
+   "liveryComponent":[  
+      {  
+         "name":"Fuselage",
+         "layerOrder":2,
+         "slicePosition":{  
+            "x":16,
+            "y":4
+         },
+         "sliceSize":{  
+            "x":1646,
+            "y":258
+         },
+         "position":{  
+            "x":0,
+            "y":0,
+            "z":0
+         },
+         "rotation":180
+      },
+      {  
+         "name":"EngineLeft",
+         "layerOrder":4,
+         "slicePosition":{  
+            "x":360,
+            "y":297
+         },
+         "sliceSize":{  
+            "x":571,
+            "y":141
+         },
+         "position":{  
+            "x":-2.3050410751879699248120300751879,
+            "y":2.0687669172932330827067669172931,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":180
+      },
+		{  
+         "name":"EngineRight",
+         "layerOrder":4,
+         "slicePosition":{  
+            "x":360,
+            "y":484
+         },
+         "sliceSize":{  
+            "x":571,
+            "y":141
+         },
+         "position":{  
+            "x":-2.3050410751879699248120300751879,
+            "y":-2.0687669172932330827067669172931,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":1
+         },
+         "rotation":180
+      },
+		{  
+         "name":"FrontWing",
+         "layerOrder":1,
+         "slicePosition":{  
+            "x":79,
+            "y":277
+         },
+         "sliceSize":{  
+            "x":138,
+            "y":461
+         },
+         "position":{  
+            "x":5.2105263157894736842105263157894,
+            "y":0,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":180
+      },
+		{
+      "name" : "WingP180Left",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 17,
+        "y" : 863
+      },
+      "sliceSize" : {
+        "x" : 855,
+        "y" : 273
+      },
+      "position" : {
+        "x" : -2.2395488721804511278195488721804,
+        "y" : 3.9172932330827067669172932330826,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 270
+    },
+		{
+      "name" : "WingP180Right",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 900,
+        "y" : 863
+      },
+      "sliceSize" : {
+        "x" : 855,
+        "y" : 273
+      },
+      "position" : {
+        "x" : -2.2395488721804511278195488721804,
+        "y" : -3.9172932330827067669172932330826,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 270
+    },		  
+		{  
+         "name":"Tail",
+         "layerOrder":5,
+         "slicePosition":{  
+            "x":1360,
+            "y":273
+         },
+         "sliceSize":{  
+            "x":539,
+            "y":575
+         },
+         "position":{  
+            "x":-5.9274962406015037593984962406016,
+            "y":0,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":180
+      }
+   ]
+}
