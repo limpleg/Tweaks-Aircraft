@@ -365,20 +365,12 @@ This list of aircraft changes is for General Aviation Aircrafts.
 * Bell 206
 * R44
 
-### additional Vanilla GA
-
-*only available with aircraft framework, spawn all available liveries from airlines too
-
-* DC3
-* Ford Trimotor
-
 ### Tweaks Aircrafts as GA
 
 *will spawn all available liveries from airlines too
 
 * DC1
 * DC2
-* Li2
 * DC5
 * CL601
 * CL604
