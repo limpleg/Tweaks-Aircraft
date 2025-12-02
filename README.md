@@ -103,6 +103,9 @@ Aircraft Pack For Use With ACEO Tweaks
 * Piaggio P.180 Avanti (GA Possible)
 * Pilatus PC6
 	* GA (For GA Only)
+* Tecnam P2012
+	* Traveller
+	* STOL
 
 ### New Variants
 
@@ -384,6 +387,8 @@ This list of aircraft changes is for General Aviation Aircrafts.
 * C-352
 * C-352L
 * P180
+* P2012 Traveller
+* P2012 STOL
 
 ### Tweaks Aircrafts with additional GA variant
 

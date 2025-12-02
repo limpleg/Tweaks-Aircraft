@@ -1,0 +1,18 @@
+﻿{
+  "name": "GA",
+  "description": "",
+  "logoPath": "",
+  "businessType": 4,
+  "CEOName": "",
+  "flightPrefix": "GA",
+  "fleet": [
+	  "WT9"
+
+],
+  "tweaksfleet": [
+	  "P2012",
+	  "P2012STOL"
+],
+
+  "isCustom": true
+}

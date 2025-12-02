@@ -1,0 +1,113 @@
+{
+  "aircraftType" : "P2012",
+  "liveryFileName" : "P2012_Mod.png",
+  "pixelSize" : 215,
+  "liveryComponent" : [
+    {
+      "name" : "Fuselage",
+      "layerOrder" : 1,
+      "slicePosition" : {
+        "x" : 15,
+        "y" : 31
+      },
+      "sliceSize" : {
+        "x" : 2826,
+        "y" : 391
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 180
+    },
+    {
+      "name" : "Stabilizer",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 2472,
+        "y" : 537
+      },
+      "sliceSize" : {
+        "x" : 327,
+        "y" : 1353
+      },
+      "position" : {
+        "x" : -5.6174651162790697674418604651163,
+        "y" : 0,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 180
+    },
+    {
+      "name" : "Wing",
+      "layerOrder" : 2,
+      "slicePosition" : {
+        "x" : 1078,
+        "y" : 613
+      },
+      "sliceSize" : {
+        "x" : 481,
+        "y" : 3355
+      },
+      "position" : {
+        "x" : 0.50855813953488372093023255813953,
+        "y" : 0,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 180
+    },
+    {
+      "name" : "EngineLeft",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 1633,
+        "y" : 1232
+      },
+      "sliceSize" : {
+        "x" : 490,
+        "y" : 237
+      },
+      "position" : {
+        "x" : 1.5457674418604651162790697674419,
+        "y" : 2.464744186046511627906976744186,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 180
+    },
+    {
+      "name" : "EngineRight",
+      "layerOrder" : 3,
+      "slicePosition" : {
+        "x" : 1633,
+        "y" : 1514
+      },
+      "sliceSize" : {
+        "x" : 490,
+        "y" : 237
+      },
+      "position" : {
+        "x" : 1.5457674418604651162790697674419,
+        "y" : -2.464744186046511627906976744186,
+        "z" : 0
+      },
+      "flip" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "rotation" : 180
+    }	
+  ]
+}
