@@ -103,6 +103,8 @@ Aircraft Pack For Use With ACEO Tweaks
 * Piaggio P.180 Avanti (GA Possible)
 * Pilatus PC6
 	* GA (For GA Only)
+* SAAB2000
+	* -F
 * Tecnam P2012
 	* Traveller
 	* STOL
