@@ -1,0 +1,11 @@
+{
+    "id": "1e722cbf-6942-409c-a4a3-f4b0955fd881",
+    "publishedFileId": 0,
+    "name": "Helicopter Pack: H130",
+    "description": "Brings Airbus Helicopters H130 to ACEO. \n \nNot functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These H130 will only spawn from airline mods which include it.",
+    "author": "dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

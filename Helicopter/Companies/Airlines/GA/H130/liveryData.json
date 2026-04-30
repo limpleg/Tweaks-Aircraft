@@ -1,0 +1,27 @@
+{
+   "aircraftType":"H130",
+   "liveryFileName":"H130_Mod.png",
+   "pixelSize":290,
+   "liveryComponent":[
+      {
+         "name":"Fuselage",
+         "layerOrder":1,
+         "slicePosition":{
+            "x":24,
+            "y":852
+         },
+         "sliceSize":{
+            "x":3876,
+            "y":1136
+         },
+         "flip":{
+            "x":1,
+            "y":1
+         },
+         "pivot":{
+            "x":0.3174956,
+            "y":0.49887
+         }
+      }
+   ]
+}

@@ -108,6 +108,13 @@ Aircraft Pack For Use With ACEO Tweaks
 * Tecnam P2012
 	* Traveller
 	* STOL
+	
+### New Helicopter Types
+* H130
+* H145 Series
+	* BK117
+	* EC145
+	* H145
 
 ### New Variants
 
@@ -391,6 +398,15 @@ This list of aircraft changes is for General Aviation Aircrafts.
 * P180
 * P2012 Traveller
 * P2012 STOL
+
+### Tweaks Helicopters as GA
+
+*will spawn all available liveries from airlines too
+
+* H130
+* BK117
+* EC145
+* H145
 
 ### Tweaks Aircrafts with additional GA variant
 
