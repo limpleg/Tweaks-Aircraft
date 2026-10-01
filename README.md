@@ -233,7 +233,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * A350 Family
     * -900
     * -900ULR
-    * -1000	
+    * -1000
+    * -1000ULR
+    * -F
 * A380
 * ATR42
     * -Freighter
@@ -381,20 +383,12 @@ This list of aircraft changes is for General Aviation Aircrafts.
 
 *will spawn all available liveries from airlines too
 
-* DC1
-* DC2
-* DC5
 * CL601
 * CL604
 * CL605
 * CL650
 * G-21A
 * G-21G
-* JU52m1
-* JU52m3
-* AAC1
-* C-352
-* C-352L
 * P180
 * P2012 Traveller
 * P2012 STOL
