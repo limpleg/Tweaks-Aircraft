@@ -1,0 +1,19 @@
+﻿{
+  "name": "GA",
+  "description": "",
+  "logoPath": "",
+  "businessType": 4,
+  "CEOName": "",
+  "flightPrefix": "GA",
+  "fleet": [
+	  "WT9"
+
+],
+  "tweaksfleet": [
+	  "CESSNA205",
+	  "CESSNA206",
+	  "CESSNA207"	  
+],
+
+  "isCustom": true
+}

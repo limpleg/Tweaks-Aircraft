@@ -1,0 +1,264 @@
+{  
+    "aircraftType":"CESSNA207",
+	"liveryFileName":"CESSNA206.png",
+    "pixelSize":280,
+    "liveryComponent":[  
+      	{
+            "name": "config_exactly_RightWing_LeftWing_Flaps_exactly_disable",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+	{  
+            "name":"config_exactly_Prop_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : -0.05357142857142857142857142857143,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+            "name":"config_exactly_ChristmasHatPosition_LeftFrontDoor_LeftRearDoor_Engine1.1_Engine1.2_WheelCarrige_Wing1.1_Wing1.2_Wing2.1_Wing2.2_Front1_FuelTruckPaths_DeicingPosition1_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+            "name":"config_exactly_RightFrontDoor_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : -0.66071428571428571428571428571429,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+            "name":"config_exactly_CargoDoor_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 1.4,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },		
+	{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.68571428571428571428571428571428,
+        "y" : -1.3392857142857142857142857142857,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.68571428571428571428571428571428,
+        "y" : 1.3392857142857142857142857142857,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+	{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.37857142857142857142857142857143,
+        "y" : -1.2607142857142857142857142857143,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+	{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.37857142857142857142857142857143,
+        "y" : 1.2607142857142857142857142857143,
+        "z" : 0
+      },
+      "rotation" : 0
+    },		
+	{  
+            "name":"config_exactly_BeconLight_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0.91071428571428574285714285714284,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },	
+	{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x": -1.4964287142857142857142857142857,
+        "y": 0.114286,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+	  {  
+         "name":"NightWindows207",
+         "layerOrder":6,
+         "slicePosition":{  
+            "x":63,
+            "y":1795
+         },
+         "sliceSize":{  
+            "x":901,
+            "y":253
+         },
+         "position":{  
+            "x":0,
+            "y":0.72142857142857142857142857142861,
+            "z":0
+         },
+         "rotation":90
+      },
+		{
+            "name": "config_exactly_NightWindows207_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },	
+	{  
+      "name":"myshadowCessna_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 1,
+				"y" : 7
+			},
+			"sliceSize" : {
+				"x" : 1035,
+				"y" : 1147
+            },
+            "position":{  
+                "x":0.01,
+                "y":0.085,
+                "z":0
+            },
+			"scale":{
+			    "x":0.7,
+                "y":0.7,
+                "z":1.0
+			},
+      "rotation" : 0
+    } 	  
+    ]
+}

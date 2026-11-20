@@ -10,6 +10,9 @@
 
 ],
   "tweaksfleet": [
+	  "CESSNA205",
+	  "CESSNA206",
+	  "CESSNA207",	
 	  "PC6GA",
 	  "CL601",
 	  "CL604",
@@ -21,7 +24,7 @@
 	  "G-21A",
 	  "G-21G",
 	  "P180",
-	  "P2012",
+	  "P2012TRAVELLER",
 	  "P2012STOL"
 ],
 

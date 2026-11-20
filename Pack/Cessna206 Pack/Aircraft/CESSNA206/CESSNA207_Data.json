@@ -1,0 +1,118 @@
+{
+	"id": [
+		"CESSNA207"
+	],
+	"isGeneralAviation": [true],		
+	"copyFrom": "CESSNA182",
+	"numEngines": 1,
+	"wingSpan_M": 11.15,
+	"length_M": 9.86,
+	"forcedReScale" : 1.0312,
+	"size": 7,
+	"threeStepSize": 0,
+	"displayName": [
+		"Cessna 207 Stationair"
+	],
+	"iCAOCode": [
+		"C207"
+	],
+	"manufacturer": [
+		"Cessna"
+	],
+	"numBuilt": [
+		788
+	],
+	"yearIntroduced": [
+		1968
+	],
+	"yearLastProduced": [
+		1985
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		7
+	],
+	"exitLimit_PAX": [
+		8
+	],
+	"seatsAbreast": [
+		2
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		540
+	],
+	"range_KM": [
+		1304
+	],
+	"speed_KMH": [
+		250
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		416
+	],
+	"engineType": [
+		"turboprop"
+	],
+	"takeoffDistance_M": [
+		335
+	],
+	"maxTOW_KG": [
+		1724
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		false
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		0
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		0
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

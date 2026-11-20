@@ -24,6 +24,10 @@ Aircraft Pack For Use With ACEO Tweaks
     * -400
     * -400F
     * -500	
+* CESSNA 205 Family
+    * 205
+    * 206
+    * 207	
 * Comac C909
     * CCF
 * Comac C919
@@ -383,6 +387,9 @@ This list of aircraft changes is for General Aviation Aircrafts.
 
 *will spawn all available liveries from airlines too
 
+* CESSNA205
+* CESSNA206
+* CESSNA207
 * CL601
 * CL604
 * CL605
